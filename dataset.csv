@@ -1,0 +1,1157 @@
+CD_CNES,DS_ESPECIALIDADE,TIPO,DS_DADO,NM_REGIAO_SAUDE,ANO,QTD_PROD,QTD_META,PORTE_HOSP,cluster,cluster2
+2223546,Cirurgia Geral,SIA,CONSULTA,23 - Caxias e Hortênsias,2023,2898,2520,Hospital Geral III,0,1
+2223546,Cirurgia Geral,SIA,CONSULTA,23 - Caxias e Hortênsias,2022,2722,2520,Hospital Geral III,0,1
+2223546,Cirurgia Geral,SIA,CONSULTA,23 - Caxias e Hortênsias,2024,1919,2520,Hospital Geral III,0,1
+2246988,Cirurgia Geral,SIA,CONSULTA,17 - Planalto,2023,2771,2520,Hospital Geral III,0,1
+2246988,Cirurgia Geral,SIA,CONSULTA,17 - Planalto,2024,1634,2520,Hospital Geral III,0,1
+2246988,Cirurgia Geral,SIA,CONSULTA,17 - Planalto,2022,2099,2520,Hospital Geral III,0,1
+2237253,Cirurgia Geral,SIA,CONSULTA,10 - Capital e Vale do Gravataí,2022,7162,2520,Hospital Geral III,0,1
+2237253,Cirurgia Geral,SIA,CONSULTA,10 - Capital e Vale do Gravataí,2023,8870,2520,Hospital Geral III,0,1
+2237253,Cirurgia Geral,SIA,CONSULTA,10 - Capital e Vale do Gravataí,2024,5854,2520,Hospital Geral III,0,1
+2232073,Cirurgia Geral,SIA,CONSULTA,07 - Vale dos Sinos,2024,0,2520,Hospital Geral III,0,1
+2232073,Cirurgia Geral,SIA,CONSULTA,07 - Vale dos Sinos,2022,0,2520,Hospital Geral III,0,1
+2232073,Cirurgia Geral,SIA,CONSULTA,07 - Vale dos Sinos,2023,0,2520,Hospital Geral III,0,1
+2257564,Cirurgia Geral,SIA,CONSULTA,06 - Vale do Paranhana e Costa Serra,2023,3194,2520,Hospital Geral I,0,1
+2257564,Cirurgia Geral,SIA,CONSULTA,06 - Vale do Paranhana e Costa Serra,2022,2099,2520,Hospital Geral I,0,1
+2257564,Cirurgia Geral,SIA,CONSULTA,06 - Vale do Paranhana e Costa Serra,2024,1400,2520,Hospital Geral I,0,1
+2249510,Cirurgia Geral,SIA,CONSULTA,16 - Alto Uruguai Gaúcho,2023,1256,2520,Hospital Geral II,0,1
+2249510,Cirurgia Geral,SIA,CONSULTA,16 - Alto Uruguai Gaúcho,2022,924,2520,Hospital Geral II,0,1
+2249510,Cirurgia Geral,SIA,CONSULTA,16 - Alto Uruguai Gaúcho,2024,924,2520,Hospital Geral II,0,1
+2262274,Cirurgia Geral,SIA,CONSULTA,17 - Planalto,2022,323,2520,Hospital Geral II,0,1
+2262274,Cirurgia Geral,SIA,CONSULTA,17 - Planalto,2023,757,2520,Hospital Geral II,0,1
+2262274,Cirurgia Geral,SIA,CONSULTA,17 - Planalto,2024,370,2520,Hospital Geral II,0,1
+2253046,Cirurgia Geral,SIA,CONSULTA,21 - Sul,2023,1408,2520,Hospital Geral III,0,1
+2253046,Cirurgia Geral,SIA,CONSULTA,21 - Sul,2022,1060,2520,Hospital Geral III,0,1
+2253046,Cirurgia Geral,SIA,CONSULTA,21 - Sul,2024,633,2520,Hospital Geral III,0,1
+2227932,Cirurgia Geral,SIA,CONSULTA,06 - Vale do Paranhana e Costa Serra,2022,1913,2520,Hospital Geral II,0,1
+2227932,Cirurgia Geral,SIA,CONSULTA,06 - Vale do Paranhana e Costa Serra,2024,1668,2520,Hospital Geral II,0,1
+2227932,Cirurgia Geral,SIA,CONSULTA,06 - Vale do Paranhana e Costa Serra,2023,2313,2520,Hospital Geral II,0,1
+2236362,Cirurgia Geral,SIA,CONSULTA,28 - Vale do Rio Pardo,2022,1492,2520,Hospital Geral II,0,1
+2236362,Cirurgia Geral,SIA,CONSULTA,28 - Vale do Rio Pardo,2023,1546,2520,Hospital Geral II,0,1
+2236362,Cirurgia Geral,SIA,CONSULTA,28 - Vale do Rio Pardo,2024,769,2520,Hospital Geral II,0,1
+2232928,Cirurgia Geral,SIA,CONSULTA,21 - Sul,2022,1169,2520,Hospital Geral II,0,1
+2232928,Cirurgia Geral,SIA,CONSULTA,21 - Sul,2023,1259,2520,Hospital Geral II,0,1
+2232928,Cirurgia Geral,SIA,CONSULTA,21 - Sul,2024,736,2520,Hospital Geral II,0,1
+2232154,Cirurgia Geral,SIA,CONSULTA,07 - Vale dos Sinos,2024,1786,2520,Hospital Geral III,0,1
+2232154,Cirurgia Geral,SIA,CONSULTA,07 - Vale dos Sinos,2022,2020,2520,Hospital Geral III,0,1
+2233401,Cirurgia Geral,SIA,CONSULTA,21 - Sul,2022,2320,2520,Hospital Geral II,0,1
+2233401,Cirurgia Geral,SIA,CONSULTA,21 - Sul,2023,3151,2520,Hospital Geral II,0,1
+2233401,Cirurgia Geral,SIA,CONSULTA,21 - Sul,2024,1534,2520,Hospital Geral II,0,1
+2257556,Cirurgia Geral,SIA,CONSULTA,08 - Vale do Caí e Metropolitana,2022,1536,2520,Hospital Geral III,0,1
+2257556,Cirurgia Geral,SIA,CONSULTA,08 - Vale do Caí e Metropolitana,2023,2277,2520,Hospital Geral III,0,1
+2257556,Cirurgia Geral,SIA,CONSULTA,08 - Vale do Caí e Metropolitana,2024,1080,2520,Hospital Geral III,0,1
+2236370,Cirurgia Geral,SIA,CONSULTA,28 - Vale do Rio Pardo,2022,700,2520,Hospital Geral II,0,1
+2236370,Cirurgia Geral,SIA,CONSULTA,28 - Vale do Rio Pardo,2024,199,2520,Hospital Geral II,0,1
+2236370,Cirurgia Geral,SIA,CONSULTA,28 - Vale do Rio Pardo,2023,1567,2520,Hospital Geral II,0,1
+2240335,Cirurgia Geral,SIA,CONSULTA,26 - Uva Vale,2022,2506,2520,Hospital Geral II,0,1
+2240335,Cirurgia Geral,SIA,CONSULTA,26 - Uva Vale,2023,1958,2520,Hospital Geral II,0,1
+2240335,Cirurgia Geral,SIA,CONSULTA,26 - Uva Vale,2024,1244,2520,Hospital Geral II,0,1
+2232154,Cirurgia Geral,SIA,CONSULTA,07 - Vale dos Sinos,2023,2534,2520,Hospital Geral III,0,1
+2707969,Cirurgia Geral,SIA,CONSULTA,04 - Belas Praias,2022,5656,2520,Hospital Geral II,0,1
+2707969,Cirurgia Geral,SIA,CONSULTA,04 - Belas Praias,2023,3507,2520,Hospital Geral II,0,1
+2707969,Cirurgia Geral,SIA,CONSULTA,04 - Belas Praias,2024,4696,2520,Hospital Geral II,0,1
+2252023,Cirurgia Geral,SIA,CONSULTA,30 - Vale da Luz,2023,611,2520,Hospital Geral I,0,1
+2252023,Cirurgia Geral,SIA,CONSULTA,30 - Vale da Luz,2024,1019,2520,Hospital Geral I,0,1
+6424236,Cirurgia Geral,SIA,CONSULTA,09 - Carbonífera/Costa Doce,2024,1266,2520,Hospital Geral III,0,1
+6424236,Cirurgia Geral,SIA,CONSULTA,09 - Carbonífera/Costa Doce,2022,2564,2520,Hospital Geral III,0,1
+6424236,Cirurgia Geral,SIA,CONSULTA,09 - Carbonífera/Costa Doce,2023,2468,2520,Hospital Geral III,0,1
+2234386,Cirurgia Geral,SIA,CONSULTA,01 - Verdes Campos,2023,2737,2520,Hospital Geral I,0,1
+2234386,Cirurgia Geral,SIA,CONSULTA,01 - Verdes Campos,2024,1419,2520,Hospital Geral I,0,1
+2234386,Cirurgia Geral,SIA,CONSULTA,01 - Verdes Campos,2022,1503,2520,Hospital Geral I,0,1
+2248328,Cirurgia Geral,SIA,CONSULTA,03 - Fronteira Oeste,2023,2625,2520,Hospital Geral III,0,1
+2248328,Cirurgia Geral,SIA,CONSULTA,03 - Fronteira Oeste,2022,2132,2520,Hospital Geral III,0,1
+7513151,Cirurgia Geral,SIA,CONSULTA,10 - Capital e Vale do Gravataí,2022,5911,2520,Hospital Geral III,0,1
+7513151,Cirurgia Geral,SIA,CONSULTA,10 - Capital e Vale do Gravataí,2024,3054,2520,Hospital Geral III,0,1
+7513151,Cirurgia Geral,SIA,CONSULTA,10 - Capital e Vale do Gravataí,2023,7139,2520,Hospital Geral III,0,1
+2252244,Cirurgia Geral,SIA,CONSULTA,30 - Vale da Luz,2022,299,2520,Hospital Geral II,0,1
+2244101,Cirurgia Geral,SIA,CONSULTA,01 - Verdes Campos,2022,2747,2520,Hospital Geral II,0,1
+2244101,Cirurgia Geral,SIA,CONSULTA,01 - Verdes Campos,2023,2595,2520,Hospital Geral II,0,1
+2244101,Cirurgia Geral,SIA,CONSULTA,01 - Verdes Campos,2024,1559,2520,Hospital Geral II,0,1
+2248328,Cirurgia Geral,SIA,CONSULTA,03 - Fronteira Oeste,2024,1688,2520,Hospital Geral III,0,1
+2254611,Cirurgia Geral,SIA,CONSULTA,14 - Fronteira Noroeste,2022,5502,2520,Hospital Geral III,0,1
+2254611,Cirurgia Geral,SIA,CONSULTA,14 - Fronteira Noroeste,2023,6872,2520,Hospital Geral III,0,1
+2254611,Cirurgia Geral,SIA,CONSULTA,14 - Fronteira Noroeste,2024,3878,2520,Hospital Geral III,0,1
+5223962,Cirurgia Geral,SIA,CONSULTA,10 - Capital e Vale do Gravataí,2024,605,2520,Hospital Geral III,0,1
+5223962,Cirurgia Geral,SIA,CONSULTA,10 - Capital e Vale do Gravataí,2022,996,2520,Hospital Geral III,0,1
+5223962,Cirurgia Geral,SIA,CONSULTA,10 - Capital e Vale do Gravataí,2023,1449,2520,Hospital Geral III,0,1
+2252260,Cirurgia Geral,SIA,CONSULTA,30 - Vale da Luz,2022,1548,2520,Hospital Geral II,0,1
+2252260,Cirurgia Geral,SIA,CONSULTA,30 - Vale da Luz,2024,901,2520,Hospital Geral II,0,1
+2252260,Cirurgia Geral,SIA,CONSULTA,30 - Vale da Luz,2023,1250,2520,Hospital Geral II,0,1
+2248204,Cirurgia Geral,SIA,CONSULTA,03 - Fronteira Oeste,2022,2269,2520,Hospital Geral III,0,1
+2248204,Cirurgia Geral,SIA,CONSULTA,03 - Fronteira Oeste,2023,1684,2520,Hospital Geral III,0,1
+2248204,Cirurgia Geral,SIA,CONSULTA,03 - Fronteira Oeste,2024,1273,2520,Hospital Geral III,0,1
+2707918,Cirurgia Geral,SIA,CONSULTA,16 - Alto Uruguai Gaúcho,2022,1160,2520,Hospital Geral III,0,1
+2707918,Cirurgia Geral,SIA,CONSULTA,16 - Alto Uruguai Gaúcho,2023,681,2520,Hospital Geral III,0,1
+2707918,Cirurgia Geral,SIA,CONSULTA,16 - Alto Uruguai Gaúcho,2024,660,2520,Hospital Geral III,0,1
+2257815,Cirurgia Geral,SIA,CONSULTA,05 - Bons Ventos,2022,746,2520,Hospital Geral II,0,1
+2257815,Cirurgia Geral,SIA,CONSULTA,05 - Bons Ventos,2024,1906,2520,Hospital Geral II,0,1
+2257815,Cirurgia Geral,SIA,CONSULTA,05 - Bons Ventos,2023,1823,2520,Hospital Geral II,0,1
+2254964,Cirurgia Geral,SIA,CONSULTA,28 - Vale do Rio Pardo,2024,1810,2520,Hospital Geral III,0,1
+2254964,Cirurgia Geral,SIA,CONSULTA,28 - Vale do Rio Pardo,2022,2878,2520,Hospital Geral III,0,1
+2254964,Cirurgia Geral,SIA,CONSULTA,28 - Vale do Rio Pardo,2023,3195,2520,Hospital Geral III,0,1
+2248220,Cirurgia Geral,SIA,CONSULTA,03 - Fronteira Oeste,2022,413,2520,Hospital Geral III,0,1
+2248220,Cirurgia Geral,SIA,CONSULTA,03 - Fronteira Oeste,2023,1572,2520,Hospital Geral III,0,1
+2248220,Cirurgia Geral,SIA,CONSULTA,03 - Fronteira Oeste,2024,1387,2520,Hospital Geral III,0,1
+5384117,Cirurgia Geral,SIA,CONSULTA,15 - Caminho das Águas,2022,3536,2520,Hospital Geral III,0,1
+5384117,Cirurgia Geral,SIA,CONSULTA,15 - Caminho das Águas,2023,3732,2520,Hospital Geral III,0,1
+5384117,Cirurgia Geral,SIA,CONSULTA,15 - Caminho das Águas,2024,2768,2520,Hospital Geral III,0,1
+2234432,Cirurgia Geral,SIA,CONSULTA,27 - Jacuí Centro,2022,171,2520,Hospital Geral I,0,1
+2234432,Cirurgia Geral,SIA,CONSULTA,27 - Jacuí Centro,2024,1180,2520,Hospital Geral I,0,1
+2234432,Cirurgia Geral,SIA,CONSULTA,27 - Jacuí Centro,2023,740,2520,Hospital Geral I,0,1
+2262002,Cirurgia Geral,SIA,CONSULTA,22 - Pampa,2022,112,2520,Hospital Geral II,0,1
+2262002,Cirurgia Geral,SIA,CONSULTA,22 - Pampa,2023,120,2520,Hospital Geral II,0,1
+2262002,Cirurgia Geral,SIA,CONSULTA,22 - Pampa,2024,648,2520,Hospital Geral II,0,1
+2266474,Cirurgia Geral,SIA,CONSULTA,27 - Jacuí Centro,2023,159,2520,Hospital Geral III,0,1
+2266474,Cirurgia Geral,SIA,CONSULTA,27 - Jacuí Centro,2024,362,2520,Hospital Geral III,0,1
+2266474,Cirurgia Geral,SIA,CONSULTA,27 - Jacuí Centro,2022,46,2520,Hospital Geral III,0,1
+2241048,Cirurgia Geral,SIA,CONSULTA,24 - Campos de Cima da Serra,2023,2214,2520,Hospital Geral III,0,1
+2241048,Cirurgia Geral,SIA,CONSULTA,24 - Campos de Cima da Serra,2022,1336,2520,Hospital Geral III,0,1
+2248271,Cirurgia Geral,SIA,CONSULTA,03 - Fronteira Oeste,2023,2207,2520,Hospital Geral II,0,1
+2248271,Cirurgia Geral,SIA,CONSULTA,03 - Fronteira Oeste,2022,2598,2520,Hospital Geral II,0,1
+2261030,Cirurgia Geral,SIA,CONSULTA,13 - Diversidade,2023,1944,2520,Hospital Geral II,0,1
+2261030,Cirurgia Geral,SIA,CONSULTA,13 - Diversidade,2022,1923,2520,Hospital Geral II,0,1
+2261030,Cirurgia Geral,SIA,CONSULTA,13 - Diversidade,2024,1419,2520,Hospital Geral II,0,1
+2262568,Cirurgia Geral,SIA,CONSULTA,10 - Capital e Vale do Gravataí,2023,3690,2520,Hospital Geral III,0,1
+2262568,Cirurgia Geral,SIA,CONSULTA,10 - Capital e Vale do Gravataí,2024,2383,2520,Hospital Geral III,0,1
+2262568,Cirurgia Geral,SIA,CONSULTA,10 - Capital e Vale do Gravataí,2022,3581,2520,Hospital Geral III,0,1
+2241048,Cirurgia Geral,SIA,CONSULTA,24 - Campos de Cima da Serra,2024,1240,2520,Hospital Geral III,0,1
+2244357,Cirurgia Geral,SIA,CONSULTA,02 - Entre Rios,2023,1483,2520,Hospital Geral III,0,1
+2244357,Cirurgia Geral,SIA,CONSULTA,02 - Entre Rios,2024,1166,2520,Hospital Geral III,0,1
+2248271,Cirurgia Geral,SIA,CONSULTA,03 - Fronteira Oeste,2024,1228,2520,Hospital Geral II,0,1
+2259893,Cirurgia Geral,SIA,CONSULTA,11 - Sete Povos das Missões,2022,1227,2520,Hospital Geral III,0,1
+2259893,Cirurgia Geral,SIA,CONSULTA,11 - Sete Povos das Missões,2023,1347,2520,Hospital Geral III,0,1
+2259893,Cirurgia Geral,SIA,CONSULTA,11 - Sete Povos das Missões,2024,1309,2520,Hospital Geral III,0,1
+2232022,Cirurgia Geral,SIA,CONSULTA,07 - Vale dos Sinos,2023,5360,2520,Hospital Geral III,0,1
+2232022,Cirurgia Geral,SIA,CONSULTA,07 - Vale dos Sinos,2024,5348,2520,Hospital Geral III,0,1
+2232022,Cirurgia Geral,SIA,CONSULTA,07 - Vale dos Sinos,2022,4058,2520,Hospital Geral III,0,1
+2232103,Cirurgia Geral,SIA,CONSULTA,10 - Capital e Vale do Gravataí,2022,2928,2520,Hospital Geral III,0,1
+2244357,Cirurgia Geral,SIA,CONSULTA,02 - Entre Rios,2022,574,2520,Hospital Geral III,0,1
+2248298,Cirurgia Geral,SIA,CONSULTA,11 - Sete Povos das Missões,2024,452,2520,Hospital Geral III,0,1
+2248298,Cirurgia Geral,SIA,CONSULTA,11 - Sete Povos das Missões,2022,1204,2520,Hospital Geral III,0,1
+2248298,Cirurgia Geral,SIA,CONSULTA,11 - Sete Povos das Missões,2023,1303,2520,Hospital Geral III,0,1
+2261065,Cirurgia Geral,SIA,CONSULTA,13 - Diversidade,2024,1912,2520,Hospital Geral II,0,1
+2261065,Cirurgia Geral,SIA,CONSULTA,13 - Diversidade,2022,1207,2520,Hospital Geral II,0,1
+2261065,Cirurgia Geral,SIA,CONSULTA,13 - Diversidade,2023,3024,2520,Hospital Geral II,0,1
+2232162,Cirurgia Geral,SIA,CONSULTA,08 - Vale do Caí e Metropolitana,2022,6206,2520,Hospital Geral III,0,1
+2232162,Cirurgia Geral,SIA,CONSULTA,08 - Vale do Caí e Metropolitana,2023,4832,2520,Hospital Geral III,0,1
+2232162,Cirurgia Geral,SIA,CONSULTA,08 - Vale do Caí e Metropolitana,2024,2860,2520,Hospital Geral III,0,1
+2232103,Cirurgia Geral,SIA,CONSULTA,10 - Capital e Vale do Gravataí,2023,2928,2520,Hospital Geral III,0,1
+2232103,Cirurgia Geral,SIA,CONSULTA,10 - Capital e Vale do Gravataí,2024,713,2520,Hospital Geral III,0,1
+2232030,Cirurgia Geral,SIA,CONSULTA,08 - Vale do Caí e Metropolitana,2023,4553,2520,Hospital Geral III,0,1
+2232030,Cirurgia Geral,SIA,CONSULTA,08 - Vale do Caí e Metropolitana,2022,4087,2520,Hospital Geral III,0,1
+2259907,Cirurgia Geral,SIA,CONSULTA,11 - Sete Povos das Missões,2024,1252,2520,Hospital Geral III,0,1
+2259907,Cirurgia Geral,SIA,CONSULTA,11 - Sete Povos das Missões,2023,1942,2520,Hospital Geral III,0,1
+2259907,Cirurgia Geral,SIA,CONSULTA,11 - Sete Povos das Missões,2022,1282,2520,Hospital Geral III,0,1
+2228602,Cirurgia Geral,SIA,CONSULTA,15 - Caminho das Águas,2022,541,2520,Hospital Geral II,0,1
+2228602,Cirurgia Geral,SIA,CONSULTA,15 - Caminho das Águas,2023,1030,2520,Hospital Geral II,0,1
+2227762,Cirurgia Geral,SIA,CONSULTA,06 - Vale do Paranhana e Costa Serra,2022,2112,2520,Hospital Geral III,0,1
+2227762,Cirurgia Geral,SIA,CONSULTA,06 - Vale do Paranhana e Costa Serra,2023,2731,2520,Hospital Geral III,0,1
+2227762,Cirurgia Geral,SIA,CONSULTA,06 - Vale do Paranhana e Costa Serra,2024,1524,2520,Hospital Geral III,0,1
+2232030,Cirurgia Geral,SIA,CONSULTA,08 - Vale do Caí e Metropolitana,2024,2370,2520,Hospital Geral III,0,1
+2232146,Cirurgia Geral,SIA,CONSULTA,07 - Vale dos Sinos,2022,1749,2520,Hospital Geral III,0,1
+2246953,Cirurgia Geral,SIA,CONSULTA,17 - Planalto,2023,2024,2520,Hospital Geral II,0,1
+2246953,Cirurgia Geral,SIA,CONSULTA,17 - Planalto,2024,1254,2520,Hospital Geral II,0,1
+2228602,Cirurgia Geral,SIA,CONSULTA,15 - Caminho das Águas,2024,708,2520,Hospital Geral II,0,1
+2228726,Cirurgia Geral,SIA,CONSULTA,15 - Caminho das Águas,2022,2738,2520,Hospital Geral II,0,1
+2228726,Cirurgia Geral,SIA,CONSULTA,15 - Caminho das Águas,2024,1843,2520,Hospital Geral II,0,1
+2257548,Cirurgia Geral,SIA,CONSULTA,09 - Carbonífera/Costa Doce,2022,2667,2520,Hospital Geral III,0,1
+2257548,Cirurgia Geral,SIA,CONSULTA,09 - Carbonífera/Costa Doce,2023,3243,2520,Hospital Geral III,0,1
+2257548,Cirurgia Geral,SIA,CONSULTA,09 - Carbonífera/Costa Doce,2024,2080,2520,Hospital Geral III,0,1
+2232146,Cirurgia Geral,SIA,CONSULTA,07 - Vale dos Sinos,2024,1130,2520,Hospital Geral III,0,1
+2232146,Cirurgia Geral,SIA,CONSULTA,07 - Vale dos Sinos,2023,2066,2520,Hospital Geral III,0,1
+2246953,Cirurgia Geral,SIA,CONSULTA,17 - Planalto,2022,3024,2520,Hospital Geral II,0,1
+2246929,Cirurgia Geral,SIA,CONSULTA,17 - Planalto,2024,1720,2520,Hospital Geral III,0,1
+2246929,Cirurgia Geral,SIA,CONSULTA,17 - Planalto,2022,1658,2520,Hospital Geral III,0,1
+2246929,Cirurgia Geral,SIA,CONSULTA,17 - Planalto,2023,2145,2520,Hospital Geral III,0,1
+2228726,Cirurgia Geral,SIA,CONSULTA,15 - Caminho das Águas,2023,3168,2520,Hospital Geral II,0,1
+6844138,Cirurgia Geral,SIA,CONSULTA,07 - Vale dos Sinos,2022,2582,2520,Hospital Geral II,0,1
+6844138,Cirurgia Geral,SIA,CONSULTA,07 - Vale dos Sinos,2024,1879,2520,Hospital Geral II,0,1
+6844138,Cirurgia Geral,SIA,CONSULTA,07 - Vale dos Sinos,2023,2700,2520,Hospital Geral II,0,1
+2261987,Cirurgia Geral,SIA,CONSULTA,22 - Pampa,2022,1141,2520,Hospital Geral III,0,1
+2261987,Cirurgia Geral,SIA,CONSULTA,22 - Pampa,2024,995,2520,Hospital Geral III,0,1
+2261987,Cirurgia Geral,SIA,CONSULTA,22 - Pampa,2023,3208,2520,Hospital Geral III,0,1
+3508528,Cirurgia Geral,SIA,CONSULTA,08 - Vale do Caí e Metropolitana,2022,4522,2520,Hospital Geral III,0,1
+2235323,Cirurgia Geral,SIA,CONSULTA,20 - Rota da Produção,2022,47,2520,Hospital Geral II,0,1
+2235323,Cirurgia Geral,SIA,CONSULTA,20 - Rota da Produção,2023,36,2520,Hospital Geral II,0,1
+2235323,Cirurgia Geral,SIA,CONSULTA,20 - Rota da Produção,2024,1458,2520,Hospital Geral II,0,1
+2246740,Cirurgia Geral,SIA,CONSULTA,18 - Araucárias,2022,652,2520,Hospital Geral II,0,1
+2246740,Cirurgia Geral,SIA,CONSULTA,18 - Araucárias,2023,2146,2520,Hospital Geral II,0,1
+2246740,Cirurgia Geral,SIA,CONSULTA,18 - Araucárias,2024,1197,2520,Hospital Geral II,0,1
+2792974,Cirurgia Geral,SIA,CONSULTA,28 - Vale do Rio Pardo,2023,1643,2520,Hospital Geral III,0,1
+2792974,Cirurgia Geral,SIA,CONSULTA,28 - Vale do Rio Pardo,2024,1581,2520,Hospital Geral III,0,1
+2792974,Cirurgia Geral,SIA,CONSULTA,28 - Vale do Rio Pardo,2022,1947,2520,Hospital Geral III,0,1
+3508528,Cirurgia Geral,SIA,CONSULTA,08 - Vale do Caí e Metropolitana,2023,5548,2520,Hospital Geral III,0,1
+3508528,Cirurgia Geral,SIA,CONSULTA,08 - Vale do Caí e Metropolitana,2024,2894,2520,Hospital Geral III,0,1
+2227673,Cirurgia Geral,SIA,CONSULTA,08 - Vale do Caí e Metropolitana,2024,0,2520,Hospital Geral I,0,1
+2232014,Cirurgia Geral,SIA,CONSULTA,08 - Vale do Caí e Metropolitana,2024,2357,2520,Hospital Geral III,0,1
+2232014,Cirurgia Geral,SIA,CONSULTA,08 - Vale do Caí e Metropolitana,2022,3439,2520,Hospital Geral III,0,1
+2246813,Cirurgia Geral,SIA,CONSULTA,19 - Botucaraí,2022,1680,2520,Hospital Geral I,0,1
+2246813,Cirurgia Geral,SIA,CONSULTA,19 - Botucaraí,2023,1774,2520,Hospital Geral I,0,1
+2246813,Cirurgia Geral,SIA,CONSULTA,19 - Botucaraí,2024,460,2520,Hospital Geral I,0,1
+2693801,Cirurgia Geral,SIA,CONSULTA,10 - Capital e Vale do Gravataí,2022,7,2520,Hospital Geral III,0,1
+2693801,Cirurgia Geral,SIA,CONSULTA,10 - Capital e Vale do Gravataí,2024,2,2520,Hospital Geral III,0,1
+2232014,Cirurgia Geral,SIA,CONSULTA,08 - Vale do Caí e Metropolitana,2023,3470,2520,Hospital Geral III,0,1
+2246910,Cirurgia Geral,SIA,CONSULTA,17 - Planalto,2022,365,2520,Hospital Geral I,0,1
+2246910,Cirurgia Geral,SIA,CONSULTA,17 - Planalto,2023,1746,2520,Hospital Geral I,0,1
+2246910,Cirurgia Geral,SIA,CONSULTA,17 - Planalto,2024,1214,2520,Hospital Geral I,0,1
+2232995,Cirurgia Geral,SIA,CONSULTA,21 - Sul,2022,2207,2520,Hospital Geral III,0,1
+2232995,Cirurgia Geral,SIA,CONSULTA,21 - Sul,2023,3551,2520,Hospital Geral III,0,1
+2232995,Cirurgia Geral,SIA,CONSULTA,21 - Sul,2024,1588,2520,Hospital Geral III,0,1
+2707950,Cirurgia Geral,SIA,CONSULTA,04 - Belas Praias,2022,1502,2520,Hospital Geral II,0,1
+2707950,Cirurgia Geral,SIA,CONSULTA,04 - Belas Praias,2024,3440,2520,Hospital Geral II,0,1
+2707950,Cirurgia Geral,SIA,CONSULTA,04 - Belas Praias,2023,2414,2520,Hospital Geral II,0,1
+2793008,Cirurgia Geral,SIA,CONSULTA,05 - Bons Ventos,2023,622,2520,Hospital Geral III,0,1
+2793008,Cirurgia Geral,SIA,CONSULTA,05 - Bons Ventos,2022,626,2520,Hospital Geral III,0,1
+2793008,Cirurgia Geral,SIA,CONSULTA,05 - Bons Ventos,2024,581,2520,Hospital Geral III,0,1
+2232049,Cirurgia Geral,SIA,CONSULTA,10 - Capital e Vale do Gravataí,2022,3198,2520,Hospital Geral III,0,1
+2232049,Cirurgia Geral,SIA,CONSULTA,10 - Capital e Vale do Gravataí,2023,2803,2520,Hospital Geral III,0,1
+2232049,Cirurgia Geral,SIA,CONSULTA,10 - Capital e Vale do Gravataí,2024,1586,2520,Hospital Geral III,0,1
+2232073,Traumato/Ortopedia,SIA,CONSULTA,07 - Vale dos Sinos,2022,0,96,Hospital Geral III,2,0
+2232073,Traumato/Ortopedia,SIA,CONSULTA,07 - Vale dos Sinos,2024,0,96,Hospital Geral III,2,0
+2232073,Traumato/Ortopedia,SIA,CONSULTA,07 - Vale dos Sinos,2023,0,96,Hospital Geral III,2,0
+2232154,Traumato/Ortopedia,SIA,CONSULTA,07 - Vale dos Sinos,2023,3166,96,Hospital Geral III,2,0
+2232154,Traumato/Ortopedia,SIA,CONSULTA,07 - Vale dos Sinos,2024,2300,96,Hospital Geral III,2,0
+2232014,Oftalmologia,SIA,CONSULTA,08 - Vale do Caí e Metropolitana,2023,20021,2880,Hospital Geral III,0,1
+2232014,Oftalmologia,SIA,CONSULTA,08 - Vale do Caí e Metropolitana,2024,12112,2880,Hospital Geral III,0,1
+2232014,Oftalmologia,SIA,CONSULTA,08 - Vale do Caí e Metropolitana,2022,24407,2880,Hospital Geral III,0,1
+6389104,Oftalmologia,SIA,CONSULTA,05 - Bons Ventos,2023,11401,2880,Hospital Geral II,0,1
+6424236,Oftalmologia,SIA,CONSULTA,09 - Carbonífera/Costa Doce,2022,1763,2880,Hospital Geral III,0,1
+6424236,Oftalmologia,SIA,CONSULTA,09 - Carbonífera/Costa Doce,2024,1266,2880,Hospital Geral III,0,1
+6424236,Oftalmologia,SIA,CONSULTA,09 - Carbonífera/Costa Doce,2023,2042,2880,Hospital Geral III,0,1
+2232154,Traumato/Ortopedia,SIA,CONSULTA,07 - Vale dos Sinos,2022,2134,96,Hospital Geral III,2,0
+2237253,Traumato/Ortopedia,SIA,CONSULTA,10 - Capital e Vale do Gravataí,2022,4302,96,Hospital Geral III,2,0
+6389104,Oftalmologia,SIA,CONSULTA,05 - Bons Ventos,2022,8607,2880,Hospital Geral II,0,1
+6389104,Oftalmologia,SIA,CONSULTA,05 - Bons Ventos,2024,8213,2880,Hospital Geral II,0,1
+2241161,Oftalmologia,SIA,CONSULTA,25 - Vinhedos e Basalto,2024,3707,2880,Hospital Geral I,0,1
+2241161,Oftalmologia,SIA,CONSULTA,25 - Vinhedos e Basalto,2022,5770,2880,Hospital Geral I,0,1
+2241161,Oftalmologia,SIA,CONSULTA,25 - Vinhedos e Basalto,2023,6079,2880,Hospital Geral I,0,1
+2233320,Oftalmologia,SIA,CONSULTA,21 - Sul,2024,2920,2880,Hospital Geral II,0,1
+2233320,Oftalmologia,SIA,CONSULTA,21 - Sul,2023,5725,2880,Hospital Geral II,0,1
+2233320,Oftalmologia,SIA,CONSULTA,21 - Sul,2022,8210,2880,Hospital Geral II,0,1
+2237253,Traumato/Ortopedia,SIA,CONSULTA,10 - Capital e Vale do Gravataí,2023,6381,96,Hospital Geral III,2,0
+2237253,Traumato/Ortopedia,SIA,CONSULTA,10 - Capital e Vale do Gravataí,2024,4979,96,Hospital Geral III,2,0
+2234416,Oftalmologia,SIA,CONSULTA,27 - Jacuí Centro,2024,2535,2880,Hospital Geral II,0,1
+2234416,Oftalmologia,SIA,CONSULTA,27 - Jacuí Centro,2022,3212,2880,Hospital Geral II,0,1
+2234416,Oftalmologia,SIA,CONSULTA,27 - Jacuí Centro,2023,2791,2880,Hospital Geral II,0,1
+2252228,Oftalmologia,SIA,CONSULTA,29 - Vales e Montanhas,2023,15820,2880,Hospital Geral I,0,1
+5223962,Oftalmologia,SIA,CONSULTA,10 - Capital e Vale do Gravataí,2022,14835,2880,Hospital Geral III,0,1
+5223962,Oftalmologia,SIA,CONSULTA,10 - Capital e Vale do Gravataí,2024,9134,2880,Hospital Geral III,0,1
+5223962,Oftalmologia,SIA,CONSULTA,10 - Capital e Vale do Gravataí,2023,13624,2880,Hospital Geral III,0,1
+2262568,Traumato/Ortopedia,SIA,CONSULTA,10 - Capital e Vale do Gravataí,2022,3702,96,Hospital Geral III,2,0
+2262568,Traumato/Ortopedia,SIA,CONSULTA,10 - Capital e Vale do Gravataí,2023,3684,96,Hospital Geral III,2,0
+2262568,Traumato/Ortopedia,SIA,CONSULTA,10 - Capital e Vale do Gravataí,2024,2401,96,Hospital Geral III,2,0
+2252228,Oftalmologia,SIA,CONSULTA,29 - Vales e Montanhas,2022,14093,2880,Hospital Geral I,0,1
+2252228,Oftalmologia,SIA,CONSULTA,29 - Vales e Montanhas,2024,7757,2880,Hospital Geral I,0,1
+2250837,Oftalmologia,SIA,CONSULTA,14 - Fronteira Noroeste,2023,8711,2880,Hospital Geral I,0,1
+2250837,Oftalmologia,SIA,CONSULTA,14 - Fronteira Noroeste,2024,7042,2880,Hospital Geral I,0,1
+2250837,Oftalmologia,SIA,CONSULTA,14 - Fronteira Noroeste,2022,7665,2880,Hospital Geral I,0,1
+2232995,Oftalmologia,SIA,CONSULTA,21 - Sul,2024,4795,2880,Hospital Geral III,0,1
+2232995,Oftalmologia,SIA,CONSULTA,21 - Sul,2023,7085,2880,Hospital Geral III,0,1
+2232995,Oftalmologia,SIA,CONSULTA,21 - Sul,2022,4191,2880,Hospital Geral III,0,1
+2707969,Traumato/Ortopedia,SIA,CONSULTA,04 - Belas Praias,2023,3326,96,Hospital Geral II,2,0
+2707969,Traumato/Ortopedia,SIA,CONSULTA,04 - Belas Praias,2024,4353,96,Hospital Geral II,2,0
+2707969,Traumato/Ortopedia,SIA,CONSULTA,04 - Belas Praias,2022,5143,96,Hospital Geral II,2,0
+2261030,Oftalmologia,SIA,CONSULTA,13 - Diversidade,2022,4807,2880,Hospital Geral II,0,1
+2261030,Oftalmologia,SIA,CONSULTA,13 - Diversidade,2023,6804,2880,Hospital Geral II,0,1
+2261030,Oftalmologia,SIA,CONSULTA,13 - Diversidade,2024,4881,2880,Hospital Geral II,0,1
+2257548,Oftalmologia,SIA,CONSULTA,09 - Carbonífera/Costa Doce,2023,4679,2880,Hospital Geral III,0,1
+2257548,Oftalmologia,SIA,CONSULTA,09 - Carbonífera/Costa Doce,2024,3571,2880,Hospital Geral III,0,1
+2257548,Oftalmologia,SIA,CONSULTA,09 - Carbonífera/Costa Doce,2022,94,2880,Hospital Geral III,0,1
+2232162,Oftalmologia,SIA,CONSULTA,08 - Vale do Caí e Metropolitana,2022,2680,2880,Hospital Geral III,0,1
+2232162,Oftalmologia,SIA,CONSULTA,08 - Vale do Caí e Metropolitana,2023,955,2880,Hospital Geral III,0,1
+7092571,Traumato/Ortopedia,SIA,CONSULTA,10 - Capital e Vale do Gravataí,2024,3864,96,Hospital Geral III,2,0
+7092571,Traumato/Ortopedia,SIA,CONSULTA,10 - Capital e Vale do Gravataí,2022,12521,96,Hospital Geral III,2,0
+7092571,Traumato/Ortopedia,SIA,CONSULTA,10 - Capital e Vale do Gravataí,2023,6618,96,Hospital Geral III,2,0
+2707918,Oftalmologia,SIA,CONSULTA,16 - Alto Uruguai Gaúcho,2024,3128,2880,Hospital Geral III,0,1
+2707918,Oftalmologia,SIA,CONSULTA,16 - Alto Uruguai Gaúcho,2023,5553,2880,Hospital Geral III,0,1
+2707918,Oftalmologia,SIA,CONSULTA,16 - Alto Uruguai Gaúcho,2022,5684,2880,Hospital Geral III,0,1
+3819590,Oftalmologia,SIA,CONSULTA,18 - Araucárias,2023,2793,2880,Hospital Geral II,0,1
+3819590,Oftalmologia,SIA,CONSULTA,18 - Araucárias,2022,2390,2880,Hospital Geral II,0,1
+5699525,Oftalmologia,SIA,CONSULTA,02 - Entre Rios,2024,2390,2880,HPP,0,1
+5699525,Oftalmologia,SIA,CONSULTA,02 - Entre Rios,2023,2644,2880,HPP,0,1
+2252295,Oftalmologia,SIA,CONSULTA,21 - Sul,2023,11887,2880,Hospital Geral III,0,1
+2252295,Oftalmologia,SIA,CONSULTA,21 - Sul,2024,7958,2880,Hospital Geral III,0,1
+2252295,Oftalmologia,SIA,CONSULTA,21 - Sul,2022,9965,2880,Hospital Geral III,0,1
+2236370,Traumato/Ortopedia,SIA,CONSULTA,28 - Vale do Rio Pardo,2022,3913,96,Hospital Geral II,2,0
+2236370,Traumato/Ortopedia,SIA,CONSULTA,28 - Vale do Rio Pardo,2024,621,96,Hospital Geral II,2,0
+2236370,Traumato/Ortopedia,SIA,CONSULTA,28 - Vale do Rio Pardo,2023,3805,96,Hospital Geral II,2,0
+3819590,Oftalmologia,SIA,CONSULTA,18 - Araucárias,2024,1744,2880,Hospital Geral II,0,1
+5384117,Oftalmologia,SIA,CONSULTA,15 - Caminho das Águas,2023,15813,2880,Hospital Geral III,0,1
+5384117,Oftalmologia,SIA,CONSULTA,15 - Caminho das Águas,2022,18807,2880,Hospital Geral III,0,1
+5384117,Oftalmologia,SIA,CONSULTA,15 - Caminho das Águas,2024,11754,2880,Hospital Geral III,0,1
+2236362,Oftalmologia,SIA,CONSULTA,28 - Vale do Rio Pardo,2022,9026,2880,Hospital Geral II,0,1
+2236362,Oftalmologia,SIA,CONSULTA,28 - Vale do Rio Pardo,2023,10418,2880,Hospital Geral II,0,1
+2236362,Oftalmologia,SIA,CONSULTA,28 - Vale do Rio Pardo,2024,5274,2880,Hospital Geral II,0,1
+2252244,Traumato/Ortopedia,SIA,CONSULTA,30 - Vale da Luz,2022,3110,96,Hospital Geral II,2,0
+2252244,Traumato/Ortopedia,SIA,CONSULTA,30 - Vale da Luz,2023,2573,96,Hospital Geral II,2,0
+2252244,Traumato/Ortopedia,SIA,CONSULTA,30 - Vale da Luz,2024,1827,96,Hospital Geral II,2,0
+2232170,Oftalmologia,SIA,CONSULTA,07 - Vale dos Sinos,2022,23116,2880,Hospital Geral II,0,1
+2232170,Oftalmologia,SIA,CONSULTA,07 - Vale dos Sinos,2024,11958,2880,Hospital Geral II,0,1
+2232170,Oftalmologia,SIA,CONSULTA,07 - Vale dos Sinos,2023,22781,2880,Hospital Geral II,0,1
+2254964,Oftalmologia,SIA,CONSULTA,28 - Vale do Rio Pardo,2024,5031,2880,Hospital Geral III,0,1
+2254964,Oftalmologia,SIA,CONSULTA,28 - Vale do Rio Pardo,2022,8120,2880,Hospital Geral III,0,1
+2254964,Oftalmologia,SIA,CONSULTA,28 - Vale do Rio Pardo,2023,8457,2880,Hospital Geral III,0,1
+2254964,Traumato/Ortopedia,SIA,CONSULTA,28 - Vale do Rio Pardo,2022,5899,96,Hospital Geral III,2,0
+2254964,Traumato/Ortopedia,SIA,CONSULTA,28 - Vale do Rio Pardo,2023,6054,96,Hospital Geral III,2,0
+2254964,Traumato/Ortopedia,SIA,CONSULTA,28 - Vale do Rio Pardo,2024,3723,96,Hospital Geral III,2,0
+2237253,Oftalmologia,SIA,CONSULTA,10 - Capital e Vale do Gravataí,2022,16930,2880,Hospital Geral III,0,1
+2237253,Oftalmologia,SIA,CONSULTA,10 - Capital e Vale do Gravataí,2023,28229,2880,Hospital Geral III,0,1
+2237253,Oftalmologia,SIA,CONSULTA,10 - Capital e Vale do Gravataí,2024,19732,2880,Hospital Geral III,0,1
+2261995,Oftalmologia,SIA,CONSULTA,22 - Pampa,2022,5683,2880,Hospital Geral I,0,1
+2261995,Oftalmologia,SIA,CONSULTA,22 - Pampa,2024,4685,2880,Hospital Geral I,0,1
+2261995,Oftalmologia,SIA,CONSULTA,22 - Pampa,2023,6768,2880,Hospital Geral I,0,1
+2266474,Traumato/Ortopedia,SIA,CONSULTA,27 - Jacuí Centro,2022,5523,96,Hospital Geral III,2,0
+2266474,Traumato/Ortopedia,SIA,CONSULTA,27 - Jacuí Centro,2023,6127,96,Hospital Geral III,2,0
+2266474,Traumato/Ortopedia,SIA,CONSULTA,27 - Jacuí Centro,2024,4021,96,Hospital Geral III,2,0
+2237881,Oftalmologia,SIA,CONSULTA,10 - Capital e Vale do Gravataí,2024,30881,2880,HPP,0,1
+2237881,Oftalmologia,SIA,CONSULTA,10 - Capital e Vale do Gravataí,2022,79910,2880,HPP,0,1
+2237881,Oftalmologia,SIA,CONSULTA,10 - Capital e Vale do Gravataí,2023,58543,2880,HPP,0,1
+2249502,Oftalmologia,SIA,CONSULTA,16 - Alto Uruguai Gaúcho,2023,3440,2880,Hospital Geral I,0,1
+2249502,Oftalmologia,SIA,CONSULTA,16 - Alto Uruguai Gaúcho,2024,2423,2880,Hospital Geral I,0,1
+2249502,Oftalmologia,SIA,CONSULTA,16 - Alto Uruguai Gaúcho,2022,3852,2880,Hospital Geral I,0,1
+2223546,Traumato/Ortopedia,SIA,CONSULTA,23 - Caxias e Hortênsias,2024,11673,96,Hospital Geral III,2,0
+2223546,Traumato/Ortopedia,SIA,CONSULTA,23 - Caxias e Hortênsias,2023,16927,96,Hospital Geral III,2,0
+2223546,Traumato/Ortopedia,SIA,CONSULTA,23 - Caxias e Hortênsias,2022,16102,96,Hospital Geral III,2,0
+2693801,Oftalmologia,SIA,CONSULTA,10 - Capital e Vale do Gravataí,2023,81267,2880,Hospital Geral III,0,1
+2693801,Oftalmologia,SIA,CONSULTA,10 - Capital e Vale do Gravataí,2022,59019,2880,Hospital Geral III,0,1
+2693801,Oftalmologia,SIA,CONSULTA,10 - Capital e Vale do Gravataí,2024,47897,2880,Hospital Geral III,0,1
+2244101,Traumato/Ortopedia,SIA,CONSULTA,01 - Verdes Campos,2023,3833,96,Hospital Geral II,2,0
+2244101,Traumato/Ortopedia,SIA,CONSULTA,01 - Verdes Campos,2022,4078,96,Hospital Geral II,2,0
+2244101,Traumato/Ortopedia,SIA,CONSULTA,01 - Verdes Campos,2024,2266,96,Hospital Geral II,2,0
+2244101,Oftalmologia,SIA,CONSULTA,01 - Verdes Campos,2024,24943,2880,Hospital Geral II,0,1
+2244101,Oftalmologia,SIA,CONSULTA,01 - Verdes Campos,2023,46920,2880,Hospital Geral II,0,1
+2248204,Traumato/Ortopedia,SIA,CONSULTA,03 - Fronteira Oeste,2022,5813,96,Hospital Geral III,2,0
+2248204,Traumato/Ortopedia,SIA,CONSULTA,03 - Fronteira Oeste,2023,5480,96,Hospital Geral III,2,0
+2248204,Traumato/Ortopedia,SIA,CONSULTA,03 - Fronteira Oeste,2024,4056,96,Hospital Geral III,2,0
+2244101,Oftalmologia,SIA,CONSULTA,01 - Verdes Campos,2022,45643,2880,Hospital Geral II,0,1
+2248239,Oftalmologia,SIA,CONSULTA,03 - Fronteira Oeste,2023,10877,2880,Hospital Geral II,0,1
+2248239,Oftalmologia,SIA,CONSULTA,03 - Fronteira Oeste,2024,7314,2880,Hospital Geral II,0,1
+2248239,Oftalmologia,SIA,CONSULTA,03 - Fronteira Oeste,2022,10239,2880,Hospital Geral II,0,1
+2259907,Oftalmologia,SIA,CONSULTA,11 - Sete Povos das Missões,2024,5076,2880,Hospital Geral III,0,1
+2232049,Traumato/Ortopedia,SIA,CONSULTA,10 - Capital e Vale do Gravataí,2022,7974,96,Hospital Geral III,2,0
+2232049,Traumato/Ortopedia,SIA,CONSULTA,10 - Capital e Vale do Gravataí,2023,8983,96,Hospital Geral III,2,0
+2227665,Oftalmologia,SIA,CONSULTA,06 - Vale do Paranhana e Costa Serra,2024,5197,2880,Hospital Geral II,0,1
+2227665,Oftalmologia,SIA,CONSULTA,06 - Vale do Paranhana e Costa Serra,2022,7588,2880,Hospital Geral II,0,1
+2227665,Oftalmologia,SIA,CONSULTA,06 - Vale do Paranhana e Costa Serra,2023,8086,2880,Hospital Geral II,0,1
+2259907,Oftalmologia,SIA,CONSULTA,11 - Sete Povos das Missões,2023,6922,2880,Hospital Geral III,0,1
+2259907,Oftalmologia,SIA,CONSULTA,11 - Sete Povos das Missões,2022,7287,2880,Hospital Geral III,0,1
+2232049,Traumato/Ortopedia,SIA,CONSULTA,10 - Capital e Vale do Gravataí,2024,4803,96,Hospital Geral III,2,0
+2244969,Oftalmologia,SIA,CONSULTA,17 - Planalto,2022,17010,2880,HPP,0,1
+2244969,Oftalmologia,SIA,CONSULTA,17 - Planalto,2023,18086,2880,HPP,0,1
+2244969,Oftalmologia,SIA,CONSULTA,17 - Planalto,2024,11422,2880,HPP,0,1
+2252228,Traumato/Ortopedia,SIA,CONSULTA,29 - Vales e Montanhas,2022,1329,96,Hospital Geral I,2,0
+2252228,Traumato/Ortopedia,SIA,CONSULTA,29 - Vales e Montanhas,2023,1876,96,Hospital Geral I,2,0
+2241048,Traumato/Ortopedia,SIA,CONSULTA,24 - Campos de Cima da Serra,2022,1201,96,Hospital Geral III,2,0
+2241048,Traumato/Ortopedia,SIA,CONSULTA,24 - Campos de Cima da Serra,2023,2747,96,Hospital Geral III,2,0
+2241048,Traumato/Ortopedia,SIA,CONSULTA,24 - Campos de Cima da Serra,2024,2022,96,Hospital Geral III,2,0
+2257556,Traumato/Ortopedia,SIA,CONSULTA,08 - Vale do Caí e Metropolitana,2022,2617,96,Hospital Geral III,2,0
+2257556,Traumato/Ortopedia,SIA,CONSULTA,08 - Vale do Caí e Metropolitana,2023,824,96,Hospital Geral III,2,0
+2257556,Traumato/Ortopedia,SIA,CONSULTA,08 - Vale do Caí e Metropolitana,2024,1988,96,Hospital Geral III,2,0
+2262274,Traumato/Ortopedia,SIA,CONSULTA,17 - Planalto,2023,4150,96,Hospital Geral II,2,0
+2262274,Traumato/Ortopedia,SIA,CONSULTA,17 - Planalto,2024,1630,96,Hospital Geral II,2,0
+2262274,Traumato/Ortopedia,SIA,CONSULTA,17 - Planalto,2022,1125,96,Hospital Geral II,2,0
+5922216,Traumato/Ortopedia,SIA,CONSULTA,01 - Verdes Campos,2024,7406,96,Hospital Geral III,2,0
+5922216,Traumato/Ortopedia,SIA,CONSULTA,01 - Verdes Campos,2023,16768,96,Hospital Geral III,2,0
+2254611,Traumato/Ortopedia,SIA,CONSULTA,14 - Fronteira Noroeste,2023,14334,96,Hospital Geral III,2,0
+2254611,Traumato/Ortopedia,SIA,CONSULTA,14 - Fronteira Noroeste,2022,12352,96,Hospital Geral III,2,0
+2254611,Traumato/Ortopedia,SIA,CONSULTA,14 - Fronteira Noroeste,2024,9312,96,Hospital Geral III,2,0
+2257815,Traumato/Ortopedia,SIA,CONSULTA,05 - Bons Ventos,2022,1919,96,Hospital Geral II,2,0
+2257815,Traumato/Ortopedia,SIA,CONSULTA,05 - Bons Ventos,2023,1653,96,Hospital Geral II,2,0
+2257815,Traumato/Ortopedia,SIA,CONSULTA,05 - Bons Ventos,2024,1627,96,Hospital Geral II,2,0
+2257564,Traumato/Ortopedia,SIA,CONSULTA,06 - Vale do Paranhana e Costa Serra,2023,2844,96,Hospital Geral I,2,0
+2257564,Traumato/Ortopedia,SIA,CONSULTA,06 - Vale do Paranhana e Costa Serra,2022,2739,96,Hospital Geral I,2,0
+2257564,Traumato/Ortopedia,SIA,CONSULTA,06 - Vale do Paranhana e Costa Serra,2024,1381,96,Hospital Geral I,2,0
+2241153,Traumato/Ortopedia,SIA,CONSULTA,23 - Caxias e Hortênsias,2024,56,96,Hospital Geral II,2,0
+2241153,Traumato/Ortopedia,SIA,CONSULTA,23 - Caxias e Hortênsias,2023,67,96,Hospital Geral II,2,0
+2241153,Traumato/Ortopedia,SIA,CONSULTA,23 - Caxias e Hortênsias,2022,20,96,Hospital Geral II,2,0
+2248190,Traumato/Ortopedia,SIA,CONSULTA,03 - Fronteira Oeste,2022,8238,96,Hospital Geral III,2,0
+2707950,Traumato/Ortopedia,SIA,CONSULTA,04 - Belas Praias,2022,3430,96,Hospital Geral II,2,0
+2707950,Traumato/Ortopedia,SIA,CONSULTA,04 - Belas Praias,2024,3500,96,Hospital Geral II,2,0
+2707950,Traumato/Ortopedia,SIA,CONSULTA,04 - Belas Praias,2023,2987,96,Hospital Geral II,2,0
+2259907,Traumato/Ortopedia,SIA,CONSULTA,11 - Sete Povos das Missões,2023,8866,96,Hospital Geral III,2,0
+2259907,Traumato/Ortopedia,SIA,CONSULTA,11 - Sete Povos das Missões,2022,9130,96,Hospital Geral III,2,0
+2259907,Traumato/Ortopedia,SIA,CONSULTA,11 - Sete Povos das Missões,2024,5813,96,Hospital Geral III,2,0
+2240335,Traumato/Ortopedia,SIA,CONSULTA,26 - Uva Vale,2024,7725,96,Hospital Geral II,2,0
+2240335,Traumato/Ortopedia,SIA,CONSULTA,26 - Uva Vale,2023,11431,96,Hospital Geral II,2,0
+2248190,Traumato/Ortopedia,SIA,CONSULTA,03 - Fronteira Oeste,2023,7707,96,Hospital Geral III,2,0
+2248190,Traumato/Ortopedia,SIA,CONSULTA,03 - Fronteira Oeste,2024,4283,96,Hospital Geral III,2,0
+5223962,Traumato/Ortopedia,SIA,CONSULTA,10 - Capital e Vale do Gravataí,2023,1007,96,Hospital Geral III,2,0
+5223962,Traumato/Ortopedia,SIA,CONSULTA,10 - Capital e Vale do Gravataí,2022,4738,96,Hospital Geral III,2,0
+2261057,Traumato/Ortopedia,SIA,CONSULTA,13 - Diversidade,2022,4308,96,Hospital Geral III,2,0
+2261057,Traumato/Ortopedia,SIA,CONSULTA,13 - Diversidade,2024,3284,96,Hospital Geral III,2,0
+2261057,Traumato/Ortopedia,SIA,CONSULTA,13 - Diversidade,2023,4531,96,Hospital Geral III,2,0
+2240335,Traumato/Ortopedia,SIA,CONSULTA,26 - Uva Vale,2022,11196,96,Hospital Geral II,2,0
+2708000,Traumato/Ortopedia,SIA,CONSULTA,13 - Diversidade,2023,2644,96,Hospital Geral I,2,0
+2708000,Traumato/Ortopedia,SIA,CONSULTA,13 - Diversidade,2022,2707,96,Hospital Geral I,2,0
+2248328,Traumato/Ortopedia,SIA,CONSULTA,03 - Fronteira Oeste,2023,2880,96,Hospital Geral III,2,0
+2248328,Traumato/Ortopedia,SIA,CONSULTA,03 - Fronteira Oeste,2022,2550,96,Hospital Geral III,2,0
+2248328,Traumato/Ortopedia,SIA,CONSULTA,03 - Fronteira Oeste,2024,1923,96,Hospital Geral III,2,0
+2262568,Urologia,SIA,CONSULTA,10 - Capital e Vale do Gravataí,2024,2207,84,Hospital Geral III,2,0
+2262568,Urologia,SIA,CONSULTA,10 - Capital e Vale do Gravataí,2022,2349,84,Hospital Geral III,2,0
+2262568,Urologia,SIA,CONSULTA,10 - Capital e Vale do Gravataí,2023,2985,84,Hospital Geral III,2,0
+2263858,Traumato/Ortopedia,SIA,CONSULTA,12 - Portal das Missões,2024,2413,96,Hospital Geral III,2,0
+2263858,Traumato/Ortopedia,SIA,CONSULTA,12 - Portal das Missões,2022,3507,96,Hospital Geral III,2,0
+2263858,Traumato/Ortopedia,SIA,CONSULTA,12 - Portal das Missões,2023,3055,96,Hospital Geral III,2,0
+2708000,Traumato/Ortopedia,SIA,CONSULTA,13 - Diversidade,2024,1705,96,Hospital Geral I,2,0
+2246961,Traumato/Ortopedia,SIA,CONSULTA,19 - Botucaraí,2023,2483,96,Hospital Geral II,2,0
+2246961,Traumato/Ortopedia,SIA,CONSULTA,19 - Botucaraí,2022,289,96,Hospital Geral II,2,0
+2246961,Traumato/Ortopedia,SIA,CONSULTA,19 - Botucaraí,2024,1920,96,Hospital Geral II,2,0
+2248298,Traumato/Ortopedia,SIA,CONSULTA,11 - Sete Povos das Missões,2022,1121,96,Hospital Geral III,2,0
+2248298,Traumato/Ortopedia,SIA,CONSULTA,11 - Sete Povos das Missões,2023,3939,96,Hospital Geral III,2,0
+2248298,Traumato/Ortopedia,SIA,CONSULTA,11 - Sete Povos das Missões,2024,2654,96,Hospital Geral III,2,0
+2707950,Urologia,SIA,CONSULTA,04 - Belas Praias,2023,1372,84,Hospital Geral II,2,0
+2707950,Urologia,SIA,CONSULTA,04 - Belas Praias,2022,1015,84,Hospital Geral II,2,0
+2707950,Urologia,SIA,CONSULTA,04 - Belas Praias,2024,886,84,Hospital Geral II,2,0
+2228734,Traumato/Ortopedia,SIA,CONSULTA,15 - Caminho das Águas,2024,2687,96,Hospital Geral I,2,0
+2228734,Traumato/Ortopedia,SIA,CONSULTA,15 - Caminho das Águas,2022,3971,96,Hospital Geral I,2,0
+2228734,Traumato/Ortopedia,SIA,CONSULTA,15 - Caminho das Águas,2023,4816,96,Hospital Geral I,2,0
+0181927,Traumato/Ortopedia,SIA,CONSULTA,09 - Carbonífera/Costa Doce,2023,28,96,Hospital Geral II,2,0
+0181927,Traumato/Ortopedia,SIA,CONSULTA,09 - Carbonífera/Costa Doce,2024,741,96,Hospital Geral II,2,0
+2232030,Traumato/Ortopedia,SIA,CONSULTA,08 - Vale do Caí e Metropolitana,2022,1659,96,Hospital Geral III,2,0
+2232030,Traumato/Ortopedia,SIA,CONSULTA,08 - Vale do Caí e Metropolitana,2023,3595,96,Hospital Geral III,2,0
+2250837,Traumato/Ortopedia,SIA,CONSULTA,14 - Fronteira Noroeste,2022,2616,96,Hospital Geral I,2,0
+2250837,Traumato/Ortopedia,SIA,CONSULTA,14 - Fronteira Noroeste,2024,1434,96,Hospital Geral I,2,0
+2250837,Traumato/Ortopedia,SIA,CONSULTA,14 - Fronteira Noroeste,2023,2575,96,Hospital Geral I,2,0
+2261057,Urologia,SIA,CONSULTA,13 - Diversidade,2023,3265,84,Hospital Geral III,2,0
+2261057,Urologia,SIA,CONSULTA,13 - Diversidade,2022,3083,84,Hospital Geral III,2,0
+2261057,Urologia,SIA,CONSULTA,13 - Diversidade,2024,2350,84,Hospital Geral III,2,0
+2254611,Urologia,SIA,CONSULTA,14 - Fronteira Noroeste,2022,5095,84,Hospital Geral III,2,0
+2254611,Urologia,SIA,CONSULTA,14 - Fronteira Noroeste,2023,6017,84,Hospital Geral III,2,0
+2254611,Urologia,SIA,CONSULTA,14 - Fronteira Noroeste,2024,3846,84,Hospital Geral III,2,0
+2246929,Traumato/Ortopedia,SIA,CONSULTA,17 - Planalto,2022,5982,96,Hospital Geral III,2,0
+2246929,Traumato/Ortopedia,SIA,CONSULTA,17 - Planalto,2023,6063,96,Hospital Geral III,2,0
+2246929,Traumato/Ortopedia,SIA,CONSULTA,17 - Planalto,2024,4874,96,Hospital Geral III,2,0
+2232030,Traumato/Ortopedia,SIA,CONSULTA,08 - Vale do Caí e Metropolitana,2024,2519,96,Hospital Geral III,2,0
+2252260,Traumato/Ortopedia,SIA,CONSULTA,30 - Vale da Luz,2022,1533,96,Hospital Geral II,2,0
+2252260,Traumato/Ortopedia,SIA,CONSULTA,30 - Vale da Luz,2023,3177,96,Hospital Geral II,2,0
+2259893,Traumato/Ortopedia,SIA,CONSULTA,11 - Sete Povos das Missões,2022,3468,96,Hospital Geral III,2,0
+2259893,Traumato/Ortopedia,SIA,CONSULTA,11 - Sete Povos das Missões,2023,4451,96,Hospital Geral III,2,0
+2259893,Traumato/Ortopedia,SIA,CONSULTA,11 - Sete Povos das Missões,2024,3048,96,Hospital Geral III,2,0
+2232162,Urologia,SIA,CONSULTA,08 - Vale do Caí e Metropolitana,2022,1177,84,Hospital Geral III,2,0
+2232049,Urologia,SIA,CONSULTA,10 - Capital e Vale do Gravataí,2022,734,84,Hospital Geral III,2,0
+2232049,Urologia,SIA,CONSULTA,10 - Capital e Vale do Gravataí,2023,554,84,Hospital Geral III,2,0
+2232049,Urologia,SIA,CONSULTA,10 - Capital e Vale do Gravataí,2024,335,84,Hospital Geral III,2,0
+2232170,Urologia,SIA,CONSULTA,07 - Vale dos Sinos,2023,1106,84,Hospital Geral II,2,0
+2232170,Urologia,SIA,CONSULTA,07 - Vale dos Sinos,2024,1033,84,Hospital Geral II,2,0
+2246988,Traumato/Ortopedia,SIA,CONSULTA,17 - Planalto,2023,14036,96,Hospital Geral III,2,0
+2246988,Traumato/Ortopedia,SIA,CONSULTA,17 - Planalto,2022,13724,96,Hospital Geral III,2,0
+2246988,Traumato/Ortopedia,SIA,CONSULTA,17 - Planalto,2024,9431,96,Hospital Geral III,2,0
+2252260,Traumato/Ortopedia,SIA,CONSULTA,30 - Vale da Luz,2024,5249,96,Hospital Geral II,2,0
+2232022,Traumato/Ortopedia,SIA,CONSULTA,07 - Vale dos Sinos,2023,3412,96,Hospital Geral III,2,0
+2232022,Traumato/Ortopedia,SIA,CONSULTA,07 - Vale dos Sinos,2022,2988,96,Hospital Geral III,2,0
+2232022,Traumato/Ortopedia,SIA,CONSULTA,07 - Vale dos Sinos,2024,2630,96,Hospital Geral III,2,0
+2228688,Traumato/Ortopedia,SIA,CONSULTA,16 - Alto Uruguai Gaúcho,2022,1915,96,Hospital Geral II,2,0
+2228688,Traumato/Ortopedia,SIA,CONSULTA,16 - Alto Uruguai Gaúcho,2024,1397,96,Hospital Geral II,2,0
+2228688,Traumato/Ortopedia,SIA,CONSULTA,16 - Alto Uruguai Gaúcho,2023,1717,96,Hospital Geral II,2,0
+2246988,Urologia,SIA,CONSULTA,17 - Planalto,2024,2097,84,Hospital Geral III,2,0
+2246988,Urologia,SIA,CONSULTA,17 - Planalto,2023,3631,84,Hospital Geral III,2,0
+2246988,Urologia,SIA,CONSULTA,17 - Planalto,2022,3279,84,Hospital Geral III,2,0
+2707918,Urologia,SIA,CONSULTA,16 - Alto Uruguai Gaúcho,2023,2216,84,Hospital Geral III,2,0
+2707918,Urologia,SIA,CONSULTA,16 - Alto Uruguai Gaúcho,2022,1861,84,Hospital Geral III,2,0
+2707918,Urologia,SIA,CONSULTA,16 - Alto Uruguai Gaúcho,2024,2187,84,Hospital Geral III,2,0
+2707918,Traumato/Ortopedia,SIA,CONSULTA,16 - Alto Uruguai Gaúcho,2022,20045,96,Hospital Geral III,2,0
+2707918,Traumato/Ortopedia,SIA,CONSULTA,16 - Alto Uruguai Gaúcho,2024,16495,96,Hospital Geral III,2,0
+2707918,Traumato/Ortopedia,SIA,CONSULTA,16 - Alto Uruguai Gaúcho,2023,22659,96,Hospital Geral III,2,0
+2261987,Traumato/Ortopedia,SIA,CONSULTA,22 - Pampa,2024,2442,96,Hospital Geral III,2,0
+2228726,Traumato/Ortopedia,SIA,CONSULTA,15 - Caminho das Águas,2024,3254,96,Hospital Geral II,2,0
+2228726,Traumato/Ortopedia,SIA,CONSULTA,15 - Caminho das Águas,2022,2855,96,Hospital Geral II,2,0
+2228726,Traumato/Ortopedia,SIA,CONSULTA,15 - Caminho das Águas,2023,3890,96,Hospital Geral II,2,0
+2232030,Urologia,SIA,CONSULTA,08 - Vale do Caí e Metropolitana,2023,1808,84,Hospital Geral III,2,0
+2232030,Urologia,SIA,CONSULTA,08 - Vale do Caí e Metropolitana,2024,1126,84,Hospital Geral III,2,0
+2232030,Urologia,SIA,CONSULTA,08 - Vale do Caí e Metropolitana,2022,1449,84,Hospital Geral III,2,0
+5384117,Traumato/Ortopedia,SIA,CONSULTA,15 - Caminho das Águas,2022,9704,96,Hospital Geral III,2,0
+5384117,Traumato/Ortopedia,SIA,CONSULTA,15 - Caminho das Águas,2023,9495,96,Hospital Geral III,2,0
+5384117,Traumato/Ortopedia,SIA,CONSULTA,15 - Caminho das Águas,2024,5307,96,Hospital Geral III,2,0
+2261987,Traumato/Ortopedia,SIA,CONSULTA,22 - Pampa,2023,4634,96,Hospital Geral III,2,0
+2261987,Traumato/Ortopedia,SIA,CONSULTA,22 - Pampa,2022,7368,96,Hospital Geral III,2,0
+2232162,Traumato/Ortopedia,SIA,CONSULTA,08 - Vale do Caí e Metropolitana,2022,6432,96,Hospital Geral III,2,0
+2232162,Traumato/Ortopedia,SIA,CONSULTA,08 - Vale do Caí e Metropolitana,2023,6586,96,Hospital Geral III,2,0
+2235323,Traumato/Ortopedia,SIA,CONSULTA,20 - Rota da Produção,2024,3887,96,Hospital Geral II,2,0
+2235323,Traumato/Ortopedia,SIA,CONSULTA,20 - Rota da Produção,2022,4913,96,Hospital Geral II,2,0
+2235323,Traumato/Ortopedia,SIA,CONSULTA,20 - Rota da Produção,2023,5734,96,Hospital Geral II,2,0
+2232170,Urologia,SIA,CONSULTA,07 - Vale dos Sinos,2022,1498,84,Hospital Geral II,2,0
+2237253,Urologia,SIA,CONSULTA,10 - Capital e Vale do Gravataí,2024,7706,84,Hospital Geral III,2,0
+2237253,Urologia,SIA,CONSULTA,10 - Capital e Vale do Gravataí,2023,12667,84,Hospital Geral III,2,0
+2237253,Urologia,SIA,CONSULTA,10 - Capital e Vale do Gravataí,2022,9479,84,Hospital Geral III,2,0
+2253054,Traumato/Ortopedia,SIA,CONSULTA,21 - Sul,2022,10474,96,Hospital Geral III,2,0
+2253054,Traumato/Ortopedia,SIA,CONSULTA,21 - Sul,2023,11662,96,Hospital Geral III,2,0
+2253054,Traumato/Ortopedia,SIA,CONSULTA,21 - Sul,2024,6995,96,Hospital Geral III,2,0
+2232162,Traumato/Ortopedia,SIA,CONSULTA,08 - Vale do Caí e Metropolitana,2024,6067,96,Hospital Geral III,2,0
+2257548,Traumato/Ortopedia,SIA,CONSULTA,09 - Carbonífera/Costa Doce,2024,4417,96,Hospital Geral III,2,0
+2257548,Traumato/Ortopedia,SIA,CONSULTA,09 - Carbonífera/Costa Doce,2022,5960,96,Hospital Geral III,2,0
+2235412,Traumato/Ortopedia,SIA,CONSULTA,20 - Rota da Produção,2024,1807,96,Hospital Geral I,2,0
+2235412,Traumato/Ortopedia,SIA,CONSULTA,20 - Rota da Produção,2023,2863,96,Hospital Geral I,2,0
+2235412,Traumato/Ortopedia,SIA,CONSULTA,20 - Rota da Produção,2022,2552,96,Hospital Geral I,2,0
+2257815,Urologia,SIA,CONSULTA,05 - Bons Ventos,2023,1754,84,Hospital Geral II,2,0
+2257815,Urologia,SIA,CONSULTA,05 - Bons Ventos,2024,1292,84,Hospital Geral II,2,0
+2257815,Urologia,SIA,CONSULTA,05 - Bons Ventos,2022,290,84,Hospital Geral II,2,0
+2227762,Traumato/Ortopedia,SIA,CONSULTA,06 - Vale do Paranhana e Costa Serra,2022,4553,96,Hospital Geral III,2,0
+2227762,Traumato/Ortopedia,SIA,CONSULTA,06 - Vale do Paranhana e Costa Serra,2023,10372,96,Hospital Geral III,2,0
+2227762,Traumato/Ortopedia,SIA,CONSULTA,06 - Vale do Paranhana e Costa Serra,2024,7953,96,Hospital Geral III,2,0
+2257548,Traumato/Ortopedia,SIA,CONSULTA,09 - Carbonífera/Costa Doce,2023,6736,96,Hospital Geral III,2,0
+2246767,Traumato/Ortopedia,SIA,CONSULTA,18 - Araucárias,2022,2305,96,Hospital Geral I,2,0
+2246767,Traumato/Ortopedia,SIA,CONSULTA,18 - Araucárias,2023,3125,96,Hospital Geral I,2,0
+2246767,Traumato/Ortopedia,SIA,CONSULTA,18 - Araucárias,2024,2235,96,Hospital Geral I,2,0
+2232162,Urologia,SIA,CONSULTA,08 - Vale do Caí e Metropolitana,2023,422,84,Hospital Geral III,2,0
+2232162,Urologia,SIA,CONSULTA,08 - Vale do Caí e Metropolitana,2024,6,84,Hospital Geral III,2,0
+3508528,Traumato/Ortopedia,SIA,CONSULTA,08 - Vale do Caí e Metropolitana,2023,14611,96,Hospital Geral III,2,0
+3508528,Traumato/Ortopedia,SIA,CONSULTA,08 - Vale do Caí e Metropolitana,2022,15383,96,Hospital Geral III,2,0
+3508528,Traumato/Ortopedia,SIA,CONSULTA,08 - Vale do Caí e Metropolitana,2024,7187,96,Hospital Geral III,2,0
+6424236,Traumato/Ortopedia,SIA,CONSULTA,09 - Carbonífera/Costa Doce,2022,7379,96,Hospital Geral III,2,0
+6424236,Traumato/Ortopedia,SIA,CONSULTA,09 - Carbonífera/Costa Doce,2024,3163,96,Hospital Geral III,2,0
+6424236,Traumato/Ortopedia,SIA,CONSULTA,09 - Carbonífera/Costa Doce,2023,7155,96,Hospital Geral III,2,0
+2233312,Traumato/Ortopedia,SIA,CONSULTA,21 - Sul,2023,2660,96,Hospital Geral III,2,0
+2233312,Traumato/Ortopedia,SIA,CONSULTA,21 - Sul,2024,1773,96,Hospital Geral III,2,0
+3626245,Traumato/Ortopedia,SIA,CONSULTA,08 - Vale do Caí e Metropolitana,2022,5790,96,Hospital Geral III,2,0
+3626245,Traumato/Ortopedia,SIA,CONSULTA,08 - Vale do Caí e Metropolitana,2023,6108,96,Hospital Geral III,2,0
+3626245,Traumato/Ortopedia,SIA,CONSULTA,08 - Vale do Caí e Metropolitana,2024,3442,96,Hospital Geral III,2,0
+7513151,Traumato/Ortopedia,SIA,CONSULTA,10 - Capital e Vale do Gravataí,2022,2550,96,Hospital Geral III,2,0
+7513151,Traumato/Ortopedia,SIA,CONSULTA,10 - Capital e Vale do Gravataí,2024,3169,96,Hospital Geral III,2,0
+7513151,Traumato/Ortopedia,SIA,CONSULTA,10 - Capital e Vale do Gravataí,2023,3921,96,Hospital Geral III,2,0
+2233312,Traumato/Ortopedia,SIA,CONSULTA,21 - Sul,2022,2949,96,Hospital Geral III,2,0
+2248220,Traumato/Ortopedia,SIA,CONSULTA,03 - Fronteira Oeste,2024,3425,96,Hospital Geral III,2,0
+2792974,Traumato/Ortopedia,SIA,CONSULTA,28 - Vale do Rio Pardo,2022,7164,96,Hospital Geral III,2,0
+2792974,Traumato/Ortopedia,SIA,CONSULTA,28 - Vale do Rio Pardo,2024,3873,96,Hospital Geral III,2,0
+2792974,Traumato/Ortopedia,SIA,CONSULTA,28 - Vale do Rio Pardo,2023,6738,96,Hospital Geral III,2,0
+2234432,Traumato/Ortopedia,SIA,CONSULTA,27 - Jacuí Centro,2022,3010,96,Hospital Geral I,2,0
+2234432,Traumato/Ortopedia,SIA,CONSULTA,27 - Jacuí Centro,2024,2020,96,Hospital Geral I,2,0
+2234432,Traumato/Ortopedia,SIA,CONSULTA,27 - Jacuí Centro,2023,2480,96,Hospital Geral I,2,0
+2793008,Traumato/Ortopedia,SIA,CONSULTA,05 - Bons Ventos,2022,4343,96,Hospital Geral III,2,0
+2793008,Traumato/Ortopedia,SIA,CONSULTA,05 - Bons Ventos,2024,3261,96,Hospital Geral III,2,0
+2793008,Traumato/Ortopedia,SIA,CONSULTA,05 - Bons Ventos,2023,5556,96,Hospital Geral III,2,0
+2235404,Traumato/Ortopedia,SIA,CONSULTA,20 - Rota da Produção,2022,1209,96,Hospital Geral II,2,0
+2235404,Traumato/Ortopedia,SIA,CONSULTA,20 - Rota da Produção,2023,2685,96,Hospital Geral II,2,0
+2235404,Traumato/Ortopedia,SIA,CONSULTA,20 - Rota da Produção,2024,1517,96,Hospital Geral II,2,0
+2248220,Traumato/Ortopedia,SIA,CONSULTA,03 - Fronteira Oeste,2023,4648,96,Hospital Geral III,2,0
+2248220,Traumato/Ortopedia,SIA,CONSULTA,03 - Fronteira Oeste,2022,3196,96,Hospital Geral III,2,0
+2232995,Traumato/Ortopedia,SIA,CONSULTA,21 - Sul,2023,4589,96,Hospital Geral III,2,0
+2232995,Traumato/Ortopedia,SIA,CONSULTA,21 - Sul,2022,3278,96,Hospital Geral III,2,0
+2232995,Traumato/Ortopedia,SIA,CONSULTA,21 - Sul,2024,3075,96,Hospital Geral III,2,0
+5922216,Traumato/Ortopedia,SIA,CONSULTA,01 - Verdes Campos,2022,17945,96,Hospital Geral III,2,0
+2707918,Oftalmologia,SIA,CIRURGIA,16 - Alto Uruguai Gaúcho,2022,524,1200,Hospital Geral III,1,1
+2707918,Oftalmologia,SIA,CIRURGIA,16 - Alto Uruguai Gaúcho,2023,663,1200,Hospital Geral III,1,1
+2707918,Oftalmologia,SIA,CIRURGIA,16 - Alto Uruguai Gaúcho,2024,447,1200,Hospital Geral III,1,1
+6424236,Urologia,SIA,CONSULTA,09 - Carbonífera/Costa Doce,2023,2157,84,Hospital Geral III,2,0
+6424236,Urologia,SIA,CONSULTA,09 - Carbonífera/Costa Doce,2024,1393,84,Hospital Geral III,2,0
+6424236,Urologia,SIA,CONSULTA,09 - Carbonífera/Costa Doce,2022,1932,84,Hospital Geral III,2,0
+7513151,Urologia,SIA,CONSULTA,10 - Capital e Vale do Gravataí,2023,3991,84,Hospital Geral III,2,0
+7513151,Urologia,SIA,CONSULTA,10 - Capital e Vale do Gravataí,2022,2197,84,Hospital Geral III,2,0
+7513151,Urologia,SIA,CONSULTA,10 - Capital e Vale do Gravataí,2024,2238,84,Hospital Geral III,2,0
+2232162,Oftalmologia,SIA,CIRURGIA,08 - Vale do Caí e Metropolitana,2022,105,1200,Hospital Geral III,1,1
+2232162,Oftalmologia,SIA,CIRURGIA,08 - Vale do Caí e Metropolitana,2023,82,1200,Hospital Geral III,1,1
+2232170,Oftalmologia,SIA,CIRURGIA,07 - Vale dos Sinos,2022,3875,1200,Hospital Geral II,1,1
+2232170,Oftalmologia,SIA,CIRURGIA,07 - Vale dos Sinos,2023,3371,1200,Hospital Geral II,1,1
+2248239,Oftalmologia,SIA,CIRURGIA,03 - Fronteira Oeste,2022,3543,1200,Hospital Geral II,1,1
+2248239,Oftalmologia,SIA,CIRURGIA,03 - Fronteira Oeste,2023,2575,1200,Hospital Geral II,1,1
+2248239,Oftalmologia,SIA,CIRURGIA,03 - Fronteira Oeste,2024,1852,1200,Hospital Geral II,1,1
+2234432,Urologia,SIA,CONSULTA,27 - Jacuí Centro,2023,1858,84,Hospital Geral I,2,0
+2234432,Urologia,SIA,CONSULTA,27 - Jacuí Centro,2024,1286,84,Hospital Geral I,2,0
+2234432,Urologia,SIA,CONSULTA,27 - Jacuí Centro,2022,1829,84,Hospital Geral I,2,0
+2252198,Urologia,SIA,CONSULTA,29 - Vales e Montanhas,2023,2166,84,Hospital Geral II,2,0
+2252198,Urologia,SIA,CONSULTA,29 - Vales e Montanhas,2024,1288,84,Hospital Geral II,2,0
+2252198,Urologia,SIA,CONSULTA,29 - Vales e Montanhas,2022,1517,84,Hospital Geral II,2,0
+2232170,Oftalmologia,SIA,CIRURGIA,07 - Vale dos Sinos,2024,1829,1200,Hospital Geral II,1,1
+2232995,Oftalmologia,SIA,CIRURGIA,21 - Sul,2022,994,1200,Hospital Geral III,1,1
+2232995,Oftalmologia,SIA,CIRURGIA,21 - Sul,2023,2142,1200,Hospital Geral III,1,1
+2232995,Oftalmologia,SIA,CIRURGIA,21 - Sul,2024,1616,1200,Hospital Geral III,1,1
+2241048,Urologia,SIA,CONSULTA,24 - Campos de Cima da Serra,2023,760,84,Hospital Geral III,2,0
+2241048,Urologia,SIA,CONSULTA,24 - Campos de Cima da Serra,2022,227,84,Hospital Geral III,2,0
+2241048,Urologia,SIA,CONSULTA,24 - Campos de Cima da Serra,2024,842,84,Hospital Geral III,2,0
+2257645,Urologia,SIA,CONSULTA,25 - Vinhedos e Basalto,2022,2147,84,Hospital Geral II,2,0
+2233320,Oftalmologia,SIA,CIRURGIA,21 - Sul,2022,2793,1200,Hospital Geral II,1,1
+2233320,Oftalmologia,SIA,CIRURGIA,21 - Sul,2023,2059,1200,Hospital Geral II,1,1
+2233320,Oftalmologia,SIA,CIRURGIA,21 - Sul,2024,1209,1200,Hospital Geral II,1,1
+2249502,Oftalmologia,SIA,CIRURGIA,16 - Alto Uruguai Gaúcho,2022,1077,1200,Hospital Geral I,1,1
+2249502,Oftalmologia,SIA,CIRURGIA,16 - Alto Uruguai Gaúcho,2023,1472,1200,Hospital Geral I,1,1
+2249502,Oftalmologia,SIA,CIRURGIA,16 - Alto Uruguai Gaúcho,2024,775,1200,Hospital Geral I,1,1
+3819590,Oftalmologia,SIA,CIRURGIA,18 - Araucárias,2022,338,1200,Hospital Geral II,1,1
+3819590,Oftalmologia,SIA,CIRURGIA,18 - Araucárias,2023,1095,1200,Hospital Geral II,1,1
+2257645,Urologia,SIA,CONSULTA,25 - Vinhedos e Basalto,2023,2693,84,Hospital Geral II,2,0
+2257645,Urologia,SIA,CONSULTA,25 - Vinhedos e Basalto,2024,1558,84,Hospital Geral II,2,0
+2248239,Urologia,SIA,CONSULTA,03 - Fronteira Oeste,2024,1633,84,Hospital Geral II,2,0
+2248239,Urologia,SIA,CONSULTA,03 - Fronteira Oeste,2023,1178,84,Hospital Geral II,2,0
+2250837,Oftalmologia,SIA,CIRURGIA,14 - Fronteira Noroeste,2022,1323,1200,Hospital Geral I,1,1
+3819590,Oftalmologia,SIA,CIRURGIA,18 - Araucárias,2024,655,1200,Hospital Geral II,1,1
+5223962,Oftalmologia,SIA,CIRURGIA,10 - Capital e Vale do Gravataí,2022,1373,1200,Hospital Geral III,1,1
+5922216,Urologia,SIA,CONSULTA,01 - Verdes Campos,2022,1498,84,Hospital Geral III,2,0
+5922216,Urologia,SIA,CONSULTA,01 - Verdes Campos,2023,684,84,Hospital Geral III,2,0
+5922216,Urologia,SIA,CONSULTA,01 - Verdes Campos,2024,779,84,Hospital Geral III,2,0
+2234416,Oftalmologia,SIA,CIRURGIA,27 - Jacuí Centro,2022,448,1200,Hospital Geral II,1,1
+2234416,Oftalmologia,SIA,CIRURGIA,27 - Jacuí Centro,2023,465,1200,Hospital Geral II,1,1
+2234416,Oftalmologia,SIA,CIRURGIA,27 - Jacuí Centro,2024,272,1200,Hospital Geral II,1,1
+2250837,Oftalmologia,SIA,CIRURGIA,14 - Fronteira Noroeste,2023,3626,1200,Hospital Geral I,1,1
+2250837,Oftalmologia,SIA,CIRURGIA,14 - Fronteira Noroeste,2024,1606,1200,Hospital Geral I,1,1
+2252228,Oftalmologia,SIA,CIRURGIA,29 - Vales e Montanhas,2022,1704,1200,Hospital Geral I,1,1
+6389104,Oftalmologia,SIA,CIRURGIA,05 - Bons Ventos,2022,798,1200,Hospital Geral II,1,1
+6389104,Oftalmologia,SIA,CIRURGIA,05 - Bons Ventos,2023,2590,1200,Hospital Geral II,1,1
+6389104,Oftalmologia,SIA,CIRURGIA,05 - Bons Ventos,2024,2305,1200,Hospital Geral II,1,1
+2228734,Urologia,SIA,CONSULTA,15 - Caminho das Águas,2022,1458,84,Hospital Geral I,2,0
+2228734,Urologia,SIA,CONSULTA,15 - Caminho das Águas,2023,2096,84,Hospital Geral I,2,0
+2228734,Urologia,SIA,CONSULTA,15 - Caminho das Águas,2024,1572,84,Hospital Geral I,2,0
+2235323,Urologia,SIA,CONSULTA,20 - Rota da Produção,2024,544,84,Hospital Geral II,2,0
+2235323,Urologia,SIA,CONSULTA,20 - Rota da Produção,2023,595,84,Hospital Geral II,2,0
+2235323,Urologia,SIA,CONSULTA,20 - Rota da Produção,2022,554,84,Hospital Geral II,2,0
+2252228,Oftalmologia,SIA,CIRURGIA,29 - Vales e Montanhas,2023,2443,1200,Hospital Geral I,1,1
+2252228,Oftalmologia,SIA,CIRURGIA,29 - Vales e Montanhas,2024,1202,1200,Hospital Geral I,1,1
+2223546,Traumato/Ortopedia,SIH,CIRURGIA,23 - Caxias e Hortênsias,2022,1272,1272,Hospital Geral III,1,1
+2223546,Traumato/Ortopedia,SIH,CIRURGIA,23 - Caxias e Hortênsias,2023,1257,1272,Hospital Geral III,1,1
+2249510,Urologia,SIA,CONSULTA,16 - Alto Uruguai Gaúcho,2022,818,84,Hospital Geral II,2,0
+2249510,Urologia,SIA,CONSULTA,16 - Alto Uruguai Gaúcho,2023,1790,84,Hospital Geral II,2,0
+2249510,Urologia,SIA,CONSULTA,16 - Alto Uruguai Gaúcho,2024,1293,84,Hospital Geral II,2,0
+2236362,Oftalmologia,SIA,CIRURGIA,28 - Vale do Rio Pardo,2022,658,1200,Hospital Geral II,1,1
+2236362,Oftalmologia,SIA,CIRURGIA,28 - Vale do Rio Pardo,2023,894,1200,Hospital Geral II,1,1
+2236362,Oftalmologia,SIA,CIRURGIA,28 - Vale do Rio Pardo,2024,752,1200,Hospital Geral II,1,1
+2252295,Oftalmologia,SIA,CIRURGIA,21 - Sul,2022,2073,1200,Hospital Geral III,1,1
+5384117,Oftalmologia,SIA,CIRURGIA,15 - Caminho das Águas,2022,1812,1200,Hospital Geral III,1,1
+5384117,Oftalmologia,SIA,CIRURGIA,15 - Caminho das Águas,2023,1774,1200,Hospital Geral III,1,1
+5384117,Oftalmologia,SIA,CIRURGIA,15 - Caminho das Águas,2024,1267,1200,Hospital Geral III,1,1
+5699525,Oftalmologia,SIA,CIRURGIA,02 - Entre Rios,2023,622,1200,HPP,1,1
+5384117,Urologia,SIA,CONSULTA,15 - Caminho das Águas,2023,2260,84,Hospital Geral III,2,0
+5384117,Urologia,SIA,CONSULTA,15 - Caminho das Águas,2024,1778,84,Hospital Geral III,2,0
+5384117,Urologia,SIA,CONSULTA,15 - Caminho das Águas,2022,2001,84,Hospital Geral III,2,0
+2237253,Oftalmologia,SIA,CIRURGIA,10 - Capital e Vale do Gravataí,2022,3242,1200,Hospital Geral III,1,1
+2237253,Oftalmologia,SIA,CIRURGIA,10 - Capital e Vale do Gravataí,2023,4187,1200,Hospital Geral III,1,1
+2237253,Oftalmologia,SIA,CIRURGIA,10 - Capital e Vale do Gravataí,2024,2465,1200,Hospital Geral III,1,1
+2252295,Oftalmologia,SIA,CIRURGIA,21 - Sul,2023,2368,1200,Hospital Geral III,1,1
+2252295,Oftalmologia,SIA,CIRURGIA,21 - Sul,2024,1609,1200,Hospital Geral III,1,1
+2254964,Oftalmologia,SIA,CIRURGIA,28 - Vale do Rio Pardo,2022,469,1200,Hospital Geral III,1,1
+6424236,Oftalmologia,SIA,CIRURGIA,09 - Carbonífera/Costa Doce,2022,81,1200,Hospital Geral III,1,1
+6424236,Oftalmologia,SIA,CIRURGIA,09 - Carbonífera/Costa Doce,2023,236,1200,Hospital Geral III,1,1
+6424236,Oftalmologia,SIA,CIRURGIA,09 - Carbonífera/Costa Doce,2024,118,1200,Hospital Geral III,1,1
+0181927,Traumato/Ortopedia,SIH,CIRURGIA,09 - Carbonífera/Costa Doce,2023,137,137,Hospital Geral II,2,0
+0181927,Traumato/Ortopedia,SIH,CIRURGIA,09 - Carbonífera/Costa Doce,2024,305,137,Hospital Geral II,2,0
+2233347,Urologia,SIA,CONSULTA,21 - Sul,2023,2523,84,Hospital Geral II,2,0
+2233347,Urologia,SIA,CONSULTA,21 - Sul,2022,1553,84,Hospital Geral II,2,0
+2237881,Oftalmologia,SIA,CIRURGIA,10 - Capital e Vale do Gravataí,2022,7556,1200,HPP,1,1
+2237881,Oftalmologia,SIA,CIRURGIA,10 - Capital e Vale do Gravataí,2023,7032,1200,HPP,1,1
+2237881,Oftalmologia,SIA,CIRURGIA,10 - Capital e Vale do Gravataí,2024,3587,1200,HPP,1,1
+2254964,Oftalmologia,SIA,CIRURGIA,28 - Vale do Rio Pardo,2023,617,1200,Hospital Geral III,1,1
+2254964,Oftalmologia,SIA,CIRURGIA,28 - Vale do Rio Pardo,2024,448,1200,Hospital Geral III,1,1
+2257548,Oftalmologia,SIA,CIRURGIA,09 - Carbonífera/Costa Doce,2023,472,1200,Hospital Geral III,1,1
+2257548,Oftalmologia,SIA,CIRURGIA,09 - Carbonífera/Costa Doce,2024,797,1200,Hospital Geral III,1,1
+2223546,Traumato/Ortopedia,SIH,CIRURGIA,23 - Caxias e Hortênsias,2024,750,1272,Hospital Geral III,1,1
+2233347,Urologia,SIA,CONSULTA,21 - Sul,2024,1649,84,Hospital Geral II,2,0
+2241161,Oftalmologia,SIA,CIRURGIA,25 - Vinhedos e Basalto,2022,1736,1200,Hospital Geral I,1,1
+2241161,Oftalmologia,SIA,CIRURGIA,25 - Vinhedos e Basalto,2023,1281,1200,Hospital Geral I,1,1
+5699525,Oftalmologia,SIA,CIRURGIA,02 - Entre Rios,2024,948,1200,HPP,1,1
+2241161,Oftalmologia,SIA,CIRURGIA,25 - Vinhedos e Basalto,2024,728,1200,Hospital Geral I,1,1
+2223546,Cirurgia Geral,SIH,CIRURGIA,23 - Caxias e Hortênsias,2022,139,360,Hospital Geral III,2,0
+2223546,Cirurgia Geral,SIH,CIRURGIA,23 - Caxias e Hortênsias,2023,122,360,Hospital Geral III,2,0
+2223546,Cirurgia Geral,SIH,CIRURGIA,23 - Caxias e Hortênsias,2024,60,360,Hospital Geral III,2,0
+2244101,Oftalmologia,SIA,CIRURGIA,01 - Verdes Campos,2022,6616,1200,Hospital Geral II,1,1
+2244101,Oftalmologia,SIA,CIRURGIA,01 - Verdes Campos,2023,7310,1200,Hospital Geral II,1,1
+2244101,Oftalmologia,SIA,CIRURGIA,01 - Verdes Campos,2024,3568,1200,Hospital Geral II,1,1
+2259907,Oftalmologia,SIA,CIRURGIA,11 - Sete Povos das Missões,2022,3559,1200,Hospital Geral III,1,1
+2259907,Oftalmologia,SIA,CIRURGIA,11 - Sete Povos das Missões,2023,3353,1200,Hospital Geral III,1,1
+2259907,Oftalmologia,SIA,CIRURGIA,11 - Sete Povos das Missões,2024,3918,1200,Hospital Geral III,1,1
+2261030,Oftalmologia,SIA,CIRURGIA,13 - Diversidade,2022,472,1200,Hospital Geral II,1,1
+2261030,Oftalmologia,SIA,CIRURGIA,13 - Diversidade,2023,499,1200,Hospital Geral II,1,1
+5223962,Oftalmologia,SIA,CIRURGIA,10 - Capital e Vale do Gravataí,2023,1558,1200,Hospital Geral III,1,1
+5223962,Oftalmologia,SIA,CIRURGIA,10 - Capital e Vale do Gravataí,2024,1005,1200,Hospital Geral III,1,1
+2227665,Oftalmologia,SIA,CIRURGIA,06 - Vale do Paranhana e Costa Serra,2022,1237,1200,Hospital Geral II,1,1
+2227665,Oftalmologia,SIA,CIRURGIA,06 - Vale do Paranhana e Costa Serra,2023,738,1200,Hospital Geral II,1,1
+2227665,Oftalmologia,SIA,CIRURGIA,06 - Vale do Paranhana e Costa Serra,2024,1237,1200,Hospital Geral II,1,1
+2261030,Oftalmologia,SIA,CIRURGIA,13 - Diversidade,2024,487,1200,Hospital Geral II,1,1
+2227762,Urologia,SIA,CONSULTA,06 - Vale do Paranhana e Costa Serra,2023,2296,84,Hospital Geral III,2,0
+2227762,Urologia,SIA,CONSULTA,06 - Vale do Paranhana e Costa Serra,2024,1444,84,Hospital Geral III,2,0
+2227762,Urologia,SIA,CONSULTA,06 - Vale do Paranhana e Costa Serra,2022,1795,84,Hospital Geral III,2,0
+2232014,Oftalmologia,SIA,CIRURGIA,08 - Vale do Caí e Metropolitana,2022,338,1200,Hospital Geral III,1,1
+2232014,Oftalmologia,SIA,CIRURGIA,08 - Vale do Caí e Metropolitana,2023,211,1200,Hospital Geral III,1,1
+2244969,Oftalmologia,SIA,CIRURGIA,17 - Planalto,2022,2405,1200,HPP,1,1
+2244969,Oftalmologia,SIA,CIRURGIA,17 - Planalto,2023,3389,1200,HPP,1,1
+2244969,Oftalmologia,SIA,CIRURGIA,17 - Planalto,2024,2457,1200,HPP,1,1
+2261995,Oftalmologia,SIA,CIRURGIA,22 - Pampa,2022,2020,1200,Hospital Geral I,1,1
+2261995,Oftalmologia,SIA,CIRURGIA,22 - Pampa,2023,1683,1200,Hospital Geral I,1,1
+2261995,Oftalmologia,SIA,CIRURGIA,22 - Pampa,2024,2300,1200,Hospital Geral I,1,1
+2237822,Urologia,SIA,CONSULTA,10 - Capital e Vale do Gravataí,2022,579,84,Hospital Geral III,2,0
+2237822,Urologia,SIA,CONSULTA,10 - Capital e Vale do Gravataí,2024,711,84,Hospital Geral III,2,0
+2237822,Urologia,SIA,CONSULTA,10 - Capital e Vale do Gravataí,2023,704,84,Hospital Geral III,2,0
+2232014,Oftalmologia,SIA,CIRURGIA,08 - Vale do Caí e Metropolitana,2024,507,1200,Hospital Geral III,1,1
+2693801,Oftalmologia,SIA,CIRURGIA,10 - Capital e Vale do Gravataí,2022,11286,1200,Hospital Geral III,1,1
+2693801,Oftalmologia,SIA,CIRURGIA,10 - Capital e Vale do Gravataí,2023,15332,1200,Hospital Geral III,1,1
+2693801,Oftalmologia,SIA,CIRURGIA,10 - Capital e Vale do Gravataí,2024,11827,1200,Hospital Geral III,1,1
+2234386,Cirurgia Geral,SIH,CIRURGIA,01 - Verdes Campos,2022,167,360,Hospital Geral I,2,0
+2234386,Cirurgia Geral,SIH,CIRURGIA,01 - Verdes Campos,2023,211,360,Hospital Geral I,2,0
+2234386,Cirurgia Geral,SIH,CIRURGIA,01 - Verdes Campos,2024,154,360,Hospital Geral I,2,0
+2227762,Cirurgia Geral,SIH,CIRURGIA,06 - Vale do Paranhana e Costa Serra,2022,793,360,Hospital Geral III,2,0
+2232022,Traumato/Ortopedia,SIH,CIRURGIA,07 - Vale dos Sinos,2022,471,471,Hospital Geral III,2,0
+2232022,Traumato/Ortopedia,SIH,CIRURGIA,07 - Vale dos Sinos,2023,408,471,Hospital Geral III,2,0
+2232154,Cirurgia Geral,SIH,CIRURGIA,07 - Vale dos Sinos,2022,529,360,Hospital Geral III,2,0
+2232154,Cirurgia Geral,SIH,CIRURGIA,07 - Vale dos Sinos,2023,495,360,Hospital Geral III,2,0
+2232154,Cirurgia Geral,SIH,CIRURGIA,07 - Vale dos Sinos,2024,370,360,Hospital Geral III,2,0
+2227762,Cirurgia Geral,SIH,CIRURGIA,06 - Vale do Paranhana e Costa Serra,2023,930,360,Hospital Geral III,2,0
+2227762,Cirurgia Geral,SIH,CIRURGIA,06 - Vale do Paranhana e Costa Serra,2024,500,360,Hospital Geral III,2,0
+2232022,Traumato/Ortopedia,SIH,CIRURGIA,07 - Vale dos Sinos,2024,307,471,Hospital Geral III,2,0
+2232030,Cirurgia Geral,SIH,CIRURGIA,08 - Vale do Caí e Metropolitana,2022,632,360,Hospital Geral III,2,0
+2232030,Cirurgia Geral,SIH,CIRURGIA,08 - Vale do Caí e Metropolitana,2023,802,360,Hospital Geral III,2,0
+2232154,Traumato/Ortopedia,SIH,CIRURGIA,07 - Vale dos Sinos,2022,828,828,Hospital Geral III,1,1
+2232154,Traumato/Ortopedia,SIH,CIRURGIA,07 - Vale dos Sinos,2023,977,828,Hospital Geral III,1,1
+2232154,Traumato/Ortopedia,SIH,CIRURGIA,07 - Vale dos Sinos,2024,692,828,Hospital Geral III,1,1
+2234432,Cirurgia Geral,SIH,CIRURGIA,27 - Jacuí Centro,2022,167,360,Hospital Geral I,2,0
+2234432,Cirurgia Geral,SIH,CIRURGIA,27 - Jacuí Centro,2023,305,360,Hospital Geral I,2,0
+2234432,Cirurgia Geral,SIH,CIRURGIA,27 - Jacuí Centro,2024,198,360,Hospital Geral I,2,0
+2232030,Cirurgia Geral,SIH,CIRURGIA,08 - Vale do Caí e Metropolitana,2024,433,360,Hospital Geral III,2,0
+2232162,Cirurgia Geral,SIH,CIRURGIA,08 - Vale do Caí e Metropolitana,2022,618,360,Hospital Geral III,2,0
+2232162,Cirurgia Geral,SIH,CIRURGIA,08 - Vale do Caí e Metropolitana,2023,661,360,Hospital Geral III,2,0
+2232162,Cirurgia Geral,SIH,CIRURGIA,08 - Vale do Caí e Metropolitana,2024,225,360,Hospital Geral III,2,0
+2234432,Traumato/Ortopedia,SIH,CIRURGIA,27 - Jacuí Centro,2022,382,382,Hospital Geral I,2,0
+2234432,Traumato/Ortopedia,SIH,CIRURGIA,27 - Jacuí Centro,2023,272,382,Hospital Geral I,2,0
+2234432,Traumato/Ortopedia,SIH,CIRURGIA,27 - Jacuí Centro,2024,238,382,Hospital Geral I,2,0
+2234432,Urologia,SIH,CIRURGIA,27 - Jacuí Centro,2022,328,328,Hospital Geral I,2,0
+2227762,Traumato/Ortopedia,SIH,CIRURGIA,06 - Vale do Paranhana e Costa Serra,2022,518,518,Hospital Geral III,2,0
+2227762,Traumato/Ortopedia,SIH,CIRURGIA,06 - Vale do Paranhana e Costa Serra,2023,735,518,Hospital Geral III,2,0
+2227762,Traumato/Ortopedia,SIH,CIRURGIA,06 - Vale do Paranhana e Costa Serra,2024,628,518,Hospital Geral III,2,0
+2232030,Traumato/Ortopedia,SIH,CIRURGIA,08 - Vale do Caí e Metropolitana,2022,290,290,Hospital Geral III,2,0
+2235323,Traumato/Ortopedia,SIH,CIRURGIA,20 - Rota da Produção,2022,375,375,Hospital Geral II,2,0
+2235323,Traumato/Ortopedia,SIH,CIRURGIA,20 - Rota da Produção,2023,458,375,Hospital Geral II,2,0
+2235323,Traumato/Ortopedia,SIH,CIRURGIA,20 - Rota da Produção,2024,334,375,Hospital Geral II,2,0
+2227762,Urologia,SIH,CIRURGIA,06 - Vale do Paranhana e Costa Serra,2022,246,246,Hospital Geral III,2,0
+2227762,Urologia,SIH,CIRURGIA,06 - Vale do Paranhana e Costa Serra,2023,295,246,Hospital Geral III,2,0
+2227762,Urologia,SIH,CIRURGIA,06 - Vale do Paranhana e Costa Serra,2024,152,246,Hospital Geral III,2,0
+2232030,Traumato/Ortopedia,SIH,CIRURGIA,08 - Vale do Caí e Metropolitana,2023,458,290,Hospital Geral III,2,0
+2232030,Traumato/Ortopedia,SIH,CIRURGIA,08 - Vale do Caí e Metropolitana,2024,318,290,Hospital Geral III,2,0
+2232030,Urologia,SIH,CIRURGIA,08 - Vale do Caí e Metropolitana,2022,52,52,Hospital Geral III,2,0
+2235404,Traumato/Ortopedia,SIH,CIRURGIA,20 - Rota da Produção,2024,185,353,Hospital Geral II,2,0
+2235412,Traumato/Ortopedia,SIH,CIRURGIA,20 - Rota da Produção,2022,295,295,Hospital Geral I,2,0
+2235412,Traumato/Ortopedia,SIH,CIRURGIA,20 - Rota da Produção,2023,341,295,Hospital Geral I,2,0
+2227932,Cirurgia Geral,SIH,CIRURGIA,06 - Vale do Paranhana e Costa Serra,2023,158,360,Hospital Geral II,2,0
+2227932,Cirurgia Geral,SIH,CIRURGIA,06 - Vale do Paranhana e Costa Serra,2024,261,360,Hospital Geral II,2,0
+2228602,Cirurgia Geral,SIH,CIRURGIA,15 - Caminho das Águas,2022,322,360,Hospital Geral II,2,0
+2232030,Urologia,SIH,CIRURGIA,08 - Vale do Caí e Metropolitana,2023,160,52,Hospital Geral III,2,0
+2232030,Urologia,SIH,CIRURGIA,08 - Vale do Caí e Metropolitana,2024,62,52,Hospital Geral III,2,0
+2232162,Traumato/Ortopedia,SIH,CIRURGIA,08 - Vale do Caí e Metropolitana,2022,457,457,Hospital Geral III,2,0
+2235323,Cirurgia Geral,SIH,CIRURGIA,20 - Rota da Produção,2022,482,360,Hospital Geral II,2,0
+2235323,Cirurgia Geral,SIH,CIRURGIA,20 - Rota da Produção,2023,460,360,Hospital Geral II,2,0
+2235323,Cirurgia Geral,SIH,CIRURGIA,20 - Rota da Produção,2024,315,360,Hospital Geral II,2,0
+2228602,Cirurgia Geral,SIH,CIRURGIA,15 - Caminho das Águas,2023,430,360,Hospital Geral II,2,0
+2228602,Cirurgia Geral,SIH,CIRURGIA,15 - Caminho das Águas,2024,291,360,Hospital Geral II,2,0
+2232049,Cirurgia Geral,SIH,CIRURGIA,10 - Capital e Vale do Gravataí,2022,741,360,Hospital Geral III,2,0
+2232049,Cirurgia Geral,SIH,CIRURGIA,10 - Capital e Vale do Gravataí,2023,747,360,Hospital Geral III,2,0
+2232049,Cirurgia Geral,SIH,CIRURGIA,10 - Capital e Vale do Gravataí,2024,550,360,Hospital Geral III,2,0
+2232162,Traumato/Ortopedia,SIH,CIRURGIA,08 - Vale do Caí e Metropolitana,2023,590,457,Hospital Geral III,2,0
+2232162,Traumato/Ortopedia,SIH,CIRURGIA,08 - Vale do Caí e Metropolitana,2024,337,457,Hospital Geral III,2,0
+2235323,Urologia,SIH,CIRURGIA,20 - Rota da Produção,2022,188,188,Hospital Geral II,2,0
+2235323,Urologia,SIH,CIRURGIA,20 - Rota da Produção,2023,197,188,Hospital Geral II,2,0
+2235323,Urologia,SIH,CIRURGIA,20 - Rota da Produção,2024,146,188,Hospital Geral II,2,0
+2228688,Traumato/Ortopedia,SIH,CIRURGIA,16 - Alto Uruguai Gaúcho,2022,176,176,Hospital Geral II,2,0
+2232049,Traumato/Ortopedia,SIH,CIRURGIA,10 - Capital e Vale do Gravataí,2022,1104,1104,Hospital Geral III,1,1
+2232049,Traumato/Ortopedia,SIH,CIRURGIA,10 - Capital e Vale do Gravataí,2023,906,1104,Hospital Geral III,1,1
+2232049,Traumato/Ortopedia,SIH,CIRURGIA,10 - Capital e Vale do Gravataí,2024,524,1104,Hospital Geral III,1,1
+2232162,Urologia,SIH,CIRURGIA,08 - Vale do Caí e Metropolitana,2022,211,211,Hospital Geral III,2,0
+2232162,Urologia,SIH,CIRURGIA,08 - Vale do Caí e Metropolitana,2023,267,211,Hospital Geral III,2,0
+2232162,Urologia,SIH,CIRURGIA,08 - Vale do Caí e Metropolitana,2024,124,211,Hospital Geral III,2,0
+2232170,Urologia,SIH,CIRURGIA,07 - Vale dos Sinos,2022,1534,1534,Hospital Geral II,1,1
+2232170,Urologia,SIH,CIRURGIA,07 - Vale dos Sinos,2023,1134,1534,Hospital Geral II,1,1
+2232170,Urologia,SIH,CIRURGIA,07 - Vale dos Sinos,2024,33,1534,Hospital Geral II,1,1
+2235412,Traumato/Ortopedia,SIH,CIRURGIA,20 - Rota da Produção,2024,243,295,Hospital Geral I,2,0
+2228688,Traumato/Ortopedia,SIH,CIRURGIA,16 - Alto Uruguai Gaúcho,2023,241,176,Hospital Geral II,2,0
+2228688,Traumato/Ortopedia,SIH,CIRURGIA,16 - Alto Uruguai Gaúcho,2024,160,176,Hospital Geral II,2,0
+2232049,Urologia,SIH,CIRURGIA,10 - Capital e Vale do Gravataí,2022,636,636,Hospital Geral III,2,0
+2232049,Urologia,SIH,CIRURGIA,10 - Capital e Vale do Gravataí,2023,604,636,Hospital Geral III,2,0
+2232049,Urologia,SIH,CIRURGIA,10 - Capital e Vale do Gravataí,2024,379,636,Hospital Geral III,2,0
+2232928,Cirurgia Geral,SIH,CIRURGIA,21 - Sul,2022,79,360,Hospital Geral II,2,0
+2232928,Cirurgia Geral,SIH,CIRURGIA,21 - Sul,2023,234,360,Hospital Geral II,2,0
+2232928,Cirurgia Geral,SIH,CIRURGIA,21 - Sul,2024,195,360,Hospital Geral II,2,0
+2232995,Cirurgia Geral,SIH,CIRURGIA,21 - Sul,2022,174,360,Hospital Geral III,2,0
+2228726,Cirurgia Geral,SIH,CIRURGIA,15 - Caminho das Águas,2022,271,360,Hospital Geral II,2,0
+2228726,Cirurgia Geral,SIH,CIRURGIA,15 - Caminho das Águas,2023,292,360,Hospital Geral II,2,0
+2228726,Cirurgia Geral,SIH,CIRURGIA,15 - Caminho das Águas,2024,173,360,Hospital Geral II,2,0
+2232073,Cirurgia Geral,SIH,CIRURGIA,07 - Vale dos Sinos,2022,425,360,Hospital Geral III,2,0
+2232073,Cirurgia Geral,SIH,CIRURGIA,07 - Vale dos Sinos,2023,686,360,Hospital Geral III,2,0
+2232073,Cirurgia Geral,SIH,CIRURGIA,07 - Vale dos Sinos,2024,309,360,Hospital Geral III,2,0
+2232995,Cirurgia Geral,SIH,CIRURGIA,21 - Sul,2023,152,360,Hospital Geral III,2,0
+2232995,Cirurgia Geral,SIH,CIRURGIA,21 - Sul,2024,65,360,Hospital Geral III,2,0
+2232995,Traumato/Ortopedia,SIH,CIRURGIA,21 - Sul,2022,809,809,Hospital Geral III,1,1
+2235404,Traumato/Ortopedia,SIH,CIRURGIA,20 - Rota da Produção,2022,353,353,Hospital Geral II,2,0
+2235404,Traumato/Ortopedia,SIH,CIRURGIA,20 - Rota da Produção,2023,359,353,Hospital Geral II,2,0
+2228726,Traumato/Ortopedia,SIH,CIRURGIA,15 - Caminho das Águas,2022,426,426,Hospital Geral II,2,0
+2228726,Traumato/Ortopedia,SIH,CIRURGIA,15 - Caminho das Águas,2023,532,426,Hospital Geral II,2,0
+2228726,Traumato/Ortopedia,SIH,CIRURGIA,15 - Caminho das Águas,2024,303,426,Hospital Geral II,2,0
+2232073,Traumato/Ortopedia,SIH,CIRURGIA,07 - Vale dos Sinos,2022,682,682,Hospital Geral III,1,1
+2232073,Traumato/Ortopedia,SIH,CIRURGIA,07 - Vale dos Sinos,2023,823,682,Hospital Geral III,1,1
+2232995,Traumato/Ortopedia,SIH,CIRURGIA,21 - Sul,2023,890,809,Hospital Geral III,1,1
+2232995,Traumato/Ortopedia,SIH,CIRURGIA,21 - Sul,2024,519,809,Hospital Geral III,1,1
+2234432,Urologia,SIH,CIRURGIA,27 - Jacuí Centro,2023,348,328,Hospital Geral I,2,0
+2234432,Urologia,SIH,CIRURGIA,27 - Jacuí Centro,2024,215,328,Hospital Geral I,2,0
+2228734,Traumato/Ortopedia,SIH,CIRURGIA,15 - Caminho das Águas,2022,995,995,Hospital Geral I,1,1
+2228734,Traumato/Ortopedia,SIH,CIRURGIA,15 - Caminho das Águas,2023,988,995,Hospital Geral I,1,1
+2228734,Traumato/Ortopedia,SIH,CIRURGIA,15 - Caminho das Águas,2024,626,995,Hospital Geral I,1,1
+2232073,Traumato/Ortopedia,SIH,CIRURGIA,07 - Vale dos Sinos,2024,538,682,Hospital Geral III,1,1
+2233312,Traumato/Ortopedia,SIH,CIRURGIA,21 - Sul,2022,227,227,Hospital Geral III,2,0
+2233312,Traumato/Ortopedia,SIH,CIRURGIA,21 - Sul,2023,182,227,Hospital Geral III,2,0
+2228734,Urologia,SIH,CIRURGIA,15 - Caminho das Águas,2022,193,193,Hospital Geral I,2,0
+2228734,Urologia,SIH,CIRURGIA,15 - Caminho das Águas,2023,370,193,Hospital Geral I,2,0
+2228734,Urologia,SIH,CIRURGIA,15 - Caminho das Águas,2024,301,193,Hospital Geral I,2,0
+2232103,Cirurgia Geral,SIH,CIRURGIA,10 - Capital e Vale do Gravataí,2022,229,360,Hospital Geral III,2,0
+2232103,Cirurgia Geral,SIH,CIRURGIA,10 - Capital e Vale do Gravataí,2023,191,360,Hospital Geral III,2,0
+2232103,Cirurgia Geral,SIH,CIRURGIA,10 - Capital e Vale do Gravataí,2024,156,360,Hospital Geral III,2,0
+2232146,Cirurgia Geral,SIH,CIRURGIA,07 - Vale dos Sinos,2022,28,360,Hospital Geral III,2,0
+2233312,Traumato/Ortopedia,SIH,CIRURGIA,21 - Sul,2024,169,227,Hospital Geral III,2,0
+2232014,Cirurgia Geral,SIH,CIRURGIA,08 - Vale do Caí e Metropolitana,2022,266,360,Hospital Geral III,2,0
+2232014,Cirurgia Geral,SIH,CIRURGIA,08 - Vale do Caí e Metropolitana,2023,403,360,Hospital Geral III,2,0
+2232014,Cirurgia Geral,SIH,CIRURGIA,08 - Vale do Caí e Metropolitana,2024,136,360,Hospital Geral III,2,0
+2232146,Cirurgia Geral,SIH,CIRURGIA,07 - Vale dos Sinos,2023,146,360,Hospital Geral III,2,0
+2232146,Cirurgia Geral,SIH,CIRURGIA,07 - Vale dos Sinos,2024,89,360,Hospital Geral III,2,0
+2233347,Urologia,SIH,CIRURGIA,21 - Sul,2022,104,104,Hospital Geral II,2,0
+2233347,Urologia,SIH,CIRURGIA,21 - Sul,2023,304,104,Hospital Geral II,2,0
+2233347,Urologia,SIH,CIRURGIA,21 - Sul,2024,165,104,Hospital Geral II,2,0
+2233401,Cirurgia Geral,SIH,CIRURGIA,21 - Sul,2022,6,360,Hospital Geral II,2,0
+2233401,Cirurgia Geral,SIH,CIRURGIA,21 - Sul,2023,12,360,Hospital Geral II,2,0
+2233401,Cirurgia Geral,SIH,CIRURGIA,21 - Sul,2024,193,360,Hospital Geral II,2,0
+2232022,Cirurgia Geral,SIH,CIRURGIA,07 - Vale dos Sinos,2022,322,360,Hospital Geral III,2,0
+2232022,Cirurgia Geral,SIH,CIRURGIA,07 - Vale dos Sinos,2023,84,360,Hospital Geral III,2,0
+2232022,Cirurgia Geral,SIH,CIRURGIA,07 - Vale dos Sinos,2024,191,360,Hospital Geral III,2,0
+2248298,Traumato/Ortopedia,SIH,CIRURGIA,11 - Sete Povos das Missões,2022,321,321,Hospital Geral III,2,0
+2248298,Traumato/Ortopedia,SIH,CIRURGIA,11 - Sete Povos das Missões,2023,366,321,Hospital Geral III,2,0
+2248298,Traumato/Ortopedia,SIH,CIRURGIA,11 - Sete Povos das Missões,2024,170,321,Hospital Geral III,2,0
+2236370,Traumato/Ortopedia,SIH,CIRURGIA,28 - Vale do Rio Pardo,2022,564,564,Hospital Geral II,2,0
+2236370,Traumato/Ortopedia,SIH,CIRURGIA,28 - Vale do Rio Pardo,2023,502,564,Hospital Geral II,2,0
+2236370,Traumato/Ortopedia,SIH,CIRURGIA,28 - Vale do Rio Pardo,2024,501,564,Hospital Geral II,2,0
+2244101,Traumato/Ortopedia,SIH,CIRURGIA,01 - Verdes Campos,2022,862,862,Hospital Geral II,1,1
+2244101,Traumato/Ortopedia,SIH,CIRURGIA,01 - Verdes Campos,2023,867,862,Hospital Geral II,1,1
+2244101,Traumato/Ortopedia,SIH,CIRURGIA,01 - Verdes Campos,2024,463,862,Hospital Geral II,1,1
+2246988,Traumato/Ortopedia,SIH,CIRURGIA,17 - Planalto,2022,1066,1066,Hospital Geral III,1,1
+2246988,Traumato/Ortopedia,SIH,CIRURGIA,17 - Planalto,2023,1036,1066,Hospital Geral III,1,1
+2248328,Cirurgia Geral,SIH,CIRURGIA,03 - Fronteira Oeste,2022,681,360,Hospital Geral III,2,0
+2248328,Cirurgia Geral,SIH,CIRURGIA,03 - Fronteira Oeste,2023,876,360,Hospital Geral III,2,0
+2237253,Cirurgia Geral,SIH,CIRURGIA,10 - Capital e Vale do Gravataí,2022,797,360,Hospital Geral III,2,0
+2237253,Cirurgia Geral,SIH,CIRURGIA,10 - Capital e Vale do Gravataí,2023,1074,360,Hospital Geral III,2,0
+2237253,Cirurgia Geral,SIH,CIRURGIA,10 - Capital e Vale do Gravataí,2024,563,360,Hospital Geral III,2,0
+2244357,Cirurgia Geral,SIH,CIRURGIA,02 - Entre Rios,2022,114,360,Hospital Geral III,2,0
+2244357,Cirurgia Geral,SIH,CIRURGIA,02 - Entre Rios,2023,509,360,Hospital Geral III,2,0
+2244357,Cirurgia Geral,SIH,CIRURGIA,02 - Entre Rios,2024,438,360,Hospital Geral III,2,0
+2246988,Traumato/Ortopedia,SIH,CIRURGIA,17 - Planalto,2024,555,1066,Hospital Geral III,1,1
+2246988,Urologia,SIH,CIRURGIA,17 - Planalto,2022,500,500,Hospital Geral III,2,0
+2248328,Cirurgia Geral,SIH,CIRURGIA,03 - Fronteira Oeste,2024,688,360,Hospital Geral III,2,0
+2237253,Traumato/Ortopedia,SIH,CIRURGIA,10 - Capital e Vale do Gravataí,2022,459,459,Hospital Geral III,2,0
+2237253,Traumato/Ortopedia,SIH,CIRURGIA,10 - Capital e Vale do Gravataí,2023,562,459,Hospital Geral III,2,0
+2237253,Traumato/Ortopedia,SIH,CIRURGIA,10 - Capital e Vale do Gravataí,2024,287,459,Hospital Geral III,2,0
+2246740,Cirurgia Geral,SIH,CIRURGIA,18 - Araucárias,2022,238,360,Hospital Geral II,2,0
+2246740,Cirurgia Geral,SIH,CIRURGIA,18 - Araucárias,2023,345,360,Hospital Geral II,2,0
+2246740,Cirurgia Geral,SIH,CIRURGIA,18 - Araucárias,2024,223,360,Hospital Geral II,2,0
+2246988,Urologia,SIH,CIRURGIA,17 - Planalto,2023,496,500,Hospital Geral III,2,0
+2246988,Urologia,SIH,CIRURGIA,17 - Planalto,2024,357,500,Hospital Geral III,2,0
+2237253,Urologia,SIH,CIRURGIA,10 - Capital e Vale do Gravataí,2022,747,747,Hospital Geral III,1,1
+2237253,Urologia,SIH,CIRURGIA,10 - Capital e Vale do Gravataí,2023,928,747,Hospital Geral III,1,1
+2237253,Urologia,SIH,CIRURGIA,10 - Capital e Vale do Gravataí,2024,535,747,Hospital Geral III,1,1
+2248190,Traumato/Ortopedia,SIH,CIRURGIA,03 - Fronteira Oeste,2022,444,444,Hospital Geral III,2,0
+2248190,Traumato/Ortopedia,SIH,CIRURGIA,03 - Fronteira Oeste,2023,407,444,Hospital Geral III,2,0
+2248190,Traumato/Ortopedia,SIH,CIRURGIA,03 - Fronteira Oeste,2024,246,444,Hospital Geral III,2,0
+2248204,Cirurgia Geral,SIH,CIRURGIA,03 - Fronteira Oeste,2022,207,360,Hospital Geral III,2,0
+2237822,Urologia,SIH,CIRURGIA,10 - Capital e Vale do Gravataí,2022,93,93,Hospital Geral III,2,0
+2246767,Traumato/Ortopedia,SIH,CIRURGIA,18 - Araucárias,2022,253,253,Hospital Geral I,2,0
+2246767,Traumato/Ortopedia,SIH,CIRURGIA,18 - Araucárias,2023,326,253,Hospital Geral I,2,0
+2246767,Traumato/Ortopedia,SIH,CIRURGIA,18 - Araucárias,2024,209,253,Hospital Geral I,2,0
+2248204,Cirurgia Geral,SIH,CIRURGIA,03 - Fronteira Oeste,2023,231,360,Hospital Geral III,2,0
+2248204,Cirurgia Geral,SIH,CIRURGIA,03 - Fronteira Oeste,2024,159,360,Hospital Geral III,2,0
+2248328,Traumato/Ortopedia,SIH,CIRURGIA,03 - Fronteira Oeste,2022,467,467,Hospital Geral III,2,0
+2248328,Traumato/Ortopedia,SIH,CIRURGIA,03 - Fronteira Oeste,2023,628,467,Hospital Geral III,2,0
+2248328,Traumato/Ortopedia,SIH,CIRURGIA,03 - Fronteira Oeste,2024,421,467,Hospital Geral III,2,0
+2237822,Urologia,SIH,CIRURGIA,10 - Capital e Vale do Gravataí,2023,128,93,Hospital Geral III,2,0
+2237822,Urologia,SIH,CIRURGIA,10 - Capital e Vale do Gravataí,2024,63,93,Hospital Geral III,2,0
+2240335,Cirurgia Geral,SIH,CIRURGIA,26 - Uva Vale,2022,406,360,Hospital Geral II,2,0
+2240335,Cirurgia Geral,SIH,CIRURGIA,26 - Uva Vale,2023,478,360,Hospital Geral II,2,0
+2240335,Cirurgia Geral,SIH,CIRURGIA,26 - Uva Vale,2024,410,360,Hospital Geral II,2,0
+2246813,Cirurgia Geral,SIH,CIRURGIA,19 - Botucaraí,2022,320,360,Hospital Geral I,2,0
+2248204,Traumato/Ortopedia,SIH,CIRURGIA,03 - Fronteira Oeste,2022,491,491,Hospital Geral III,2,0
+2248204,Traumato/Ortopedia,SIH,CIRURGIA,03 - Fronteira Oeste,2023,516,491,Hospital Geral III,2,0
+2248204,Traumato/Ortopedia,SIH,CIRURGIA,03 - Fronteira Oeste,2024,314,491,Hospital Geral III,2,0
+2249510,Cirurgia Geral,SIH,CIRURGIA,16 - Alto Uruguai Gaúcho,2022,428,360,Hospital Geral II,2,0
+2249510,Cirurgia Geral,SIH,CIRURGIA,16 - Alto Uruguai Gaúcho,2023,515,360,Hospital Geral II,2,0
+2249510,Cirurgia Geral,SIH,CIRURGIA,16 - Alto Uruguai Gaúcho,2024,482,360,Hospital Geral II,2,0
+2246813,Cirurgia Geral,SIH,CIRURGIA,19 - Botucaraí,2023,291,360,Hospital Geral I,2,0
+2246813,Cirurgia Geral,SIH,CIRURGIA,19 - Botucaraí,2024,295,360,Hospital Geral I,2,0
+2248220,Cirurgia Geral,SIH,CIRURGIA,03 - Fronteira Oeste,2022,119,360,Hospital Geral III,2,0
+2248220,Cirurgia Geral,SIH,CIRURGIA,03 - Fronteira Oeste,2023,181,360,Hospital Geral III,2,0
+2248220,Cirurgia Geral,SIH,CIRURGIA,03 - Fronteira Oeste,2024,244,360,Hospital Geral III,2,0
+2249510,Urologia,SIH,CIRURGIA,16 - Alto Uruguai Gaúcho,2022,105,105,Hospital Geral II,2,0
+2249510,Urologia,SIH,CIRURGIA,16 - Alto Uruguai Gaúcho,2023,276,105,Hospital Geral II,2,0
+2249510,Urologia,SIH,CIRURGIA,16 - Alto Uruguai Gaúcho,2024,208,105,Hospital Geral II,2,0
+2240335,Traumato/Ortopedia,SIH,CIRURGIA,26 - Uva Vale,2022,883,883,Hospital Geral II,1,1
+2240335,Traumato/Ortopedia,SIH,CIRURGIA,26 - Uva Vale,2023,999,883,Hospital Geral II,1,1
+2246910,Cirurgia Geral,SIH,CIRURGIA,17 - Planalto,2022,76,360,Hospital Geral I,2,0
+2246910,Cirurgia Geral,SIH,CIRURGIA,17 - Planalto,2023,352,360,Hospital Geral I,2,0
+2246910,Cirurgia Geral,SIH,CIRURGIA,17 - Planalto,2024,226,360,Hospital Geral I,2,0
+2246910,Urologia,SIH,CIRURGIA,17 - Planalto,2022,9,9,Hospital Geral I,2,0
+2246910,Urologia,SIH,CIRURGIA,17 - Planalto,2023,89,9,Hospital Geral I,2,0
+2246910,Urologia,SIH,CIRURGIA,17 - Planalto,2024,97,9,Hospital Geral I,2,0
+2248220,Traumato/Ortopedia,SIH,CIRURGIA,03 - Fronteira Oeste,2022,402,402,Hospital Geral III,2,0
+2248220,Traumato/Ortopedia,SIH,CIRURGIA,03 - Fronteira Oeste,2023,371,402,Hospital Geral III,2,0
+2248220,Traumato/Ortopedia,SIH,CIRURGIA,03 - Fronteira Oeste,2024,279,402,Hospital Geral III,2,0
+2250837,Traumato/Ortopedia,SIH,CIRURGIA,14 - Fronteira Noroeste,2022,325,325,Hospital Geral I,2,0
+2240335,Traumato/Ortopedia,SIH,CIRURGIA,26 - Uva Vale,2024,810,883,Hospital Geral II,1,1
+2241048,Cirurgia Geral,SIH,CIRURGIA,24 - Campos de Cima da Serra,2022,605,360,Hospital Geral III,2,0
+2246929,Cirurgia Geral,SIH,CIRURGIA,17 - Planalto,2022,129,360,Hospital Geral III,2,0
+2246929,Cirurgia Geral,SIH,CIRURGIA,17 - Planalto,2023,189,360,Hospital Geral III,2,0
+2246929,Cirurgia Geral,SIH,CIRURGIA,17 - Planalto,2024,113,360,Hospital Geral III,2,0
+2248239,Urologia,SIH,CIRURGIA,03 - Fronteira Oeste,2022,6,6,Hospital Geral II,2,0
+2248239,Urologia,SIH,CIRURGIA,03 - Fronteira Oeste,2023,186,6,Hospital Geral II,2,0
+2248239,Urologia,SIH,CIRURGIA,03 - Fronteira Oeste,2024,225,6,Hospital Geral II,2,0
+2250837,Traumato/Ortopedia,SIH,CIRURGIA,14 - Fronteira Noroeste,2023,306,325,Hospital Geral I,2,0
+2250837,Traumato/Ortopedia,SIH,CIRURGIA,14 - Fronteira Noroeste,2024,261,325,Hospital Geral I,2,0
+2252023,Cirurgia Geral,SIH,CIRURGIA,30 - Vale da Luz,2022,73,360,Hospital Geral I,2,0
+2252023,Cirurgia Geral,SIH,CIRURGIA,30 - Vale da Luz,2023,308,360,Hospital Geral I,2,0
+2241048,Cirurgia Geral,SIH,CIRURGIA,24 - Campos de Cima da Serra,2023,723,360,Hospital Geral III,2,0
+2241048,Cirurgia Geral,SIH,CIRURGIA,24 - Campos de Cima da Serra,2024,462,360,Hospital Geral III,2,0
+2241048,Traumato/Ortopedia,SIH,CIRURGIA,24 - Campos de Cima da Serra,2022,836,836,Hospital Geral III,1,1
+2246929,Traumato/Ortopedia,SIH,CIRURGIA,17 - Planalto,2022,689,689,Hospital Geral III,1,1
+2246929,Traumato/Ortopedia,SIH,CIRURGIA,17 - Planalto,2023,668,689,Hospital Geral III,1,1
+2246929,Traumato/Ortopedia,SIH,CIRURGIA,17 - Planalto,2024,391,689,Hospital Geral III,1,1
+2248271,Cirurgia Geral,SIH,CIRURGIA,03 - Fronteira Oeste,2022,59,360,Hospital Geral II,2,0
+2248271,Cirurgia Geral,SIH,CIRURGIA,03 - Fronteira Oeste,2023,133,360,Hospital Geral II,2,0
+2248271,Cirurgia Geral,SIH,CIRURGIA,03 - Fronteira Oeste,2024,164,360,Hospital Geral II,2,0
+2252023,Cirurgia Geral,SIH,CIRURGIA,30 - Vale da Luz,2024,141,360,Hospital Geral I,2,0
+2241048,Traumato/Ortopedia,SIH,CIRURGIA,24 - Campos de Cima da Serra,2023,1087,836,Hospital Geral III,1,1
+2241048,Traumato/Ortopedia,SIH,CIRURGIA,24 - Campos de Cima da Serra,2024,700,836,Hospital Geral III,1,1
+2246953,Cirurgia Geral,SIH,CIRURGIA,17 - Planalto,2022,357,360,Hospital Geral II,2,0
+2246953,Cirurgia Geral,SIH,CIRURGIA,17 - Planalto,2023,308,360,Hospital Geral II,2,0
+2246953,Cirurgia Geral,SIH,CIRURGIA,17 - Planalto,2024,208,360,Hospital Geral II,2,0
+2248298,Cirurgia Geral,SIH,CIRURGIA,11 - Sete Povos das Missões,2022,322,360,Hospital Geral III,2,0
+2248298,Cirurgia Geral,SIH,CIRURGIA,11 - Sete Povos das Missões,2023,525,360,Hospital Geral III,2,0
+2248298,Cirurgia Geral,SIH,CIRURGIA,11 - Sete Povos das Missões,2024,198,360,Hospital Geral III,2,0
+2236362,Cirurgia Geral,SIH,CIRURGIA,28 - Vale do Rio Pardo,2022,203,360,Hospital Geral II,2,0
+2236362,Cirurgia Geral,SIH,CIRURGIA,28 - Vale do Rio Pardo,2023,259,360,Hospital Geral II,2,0
+2241048,Urologia,SIH,CIRURGIA,24 - Campos de Cima da Serra,2022,214,214,Hospital Geral III,2,0
+2241048,Urologia,SIH,CIRURGIA,24 - Campos de Cima da Serra,2023,268,214,Hospital Geral III,2,0
+2241048,Urologia,SIH,CIRURGIA,24 - Campos de Cima da Serra,2024,211,214,Hospital Geral III,2,0
+2246961,Traumato/Ortopedia,SIH,CIRURGIA,19 - Botucaraí,2022,176,176,Hospital Geral II,2,0
+2246961,Traumato/Ortopedia,SIH,CIRURGIA,19 - Botucaraí,2023,292,176,Hospital Geral II,2,0
+2246961,Traumato/Ortopedia,SIH,CIRURGIA,19 - Botucaraí,2024,212,176,Hospital Geral II,2,0
+2236362,Cirurgia Geral,SIH,CIRURGIA,28 - Vale do Rio Pardo,2024,108,360,Hospital Geral II,2,0
+2236370,Cirurgia Geral,SIH,CIRURGIA,28 - Vale do Rio Pardo,2022,293,360,Hospital Geral II,2,0
+2236370,Cirurgia Geral,SIH,CIRURGIA,28 - Vale do Rio Pardo,2023,176,360,Hospital Geral II,2,0
+2241153,Traumato/Ortopedia,SIH,CIRURGIA,23 - Caxias e Hortênsias,2022,608,608,Hospital Geral II,2,0
+2241153,Traumato/Ortopedia,SIH,CIRURGIA,23 - Caxias e Hortênsias,2023,863,608,Hospital Geral II,2,0
+2241153,Traumato/Ortopedia,SIH,CIRURGIA,23 - Caxias e Hortênsias,2024,443,608,Hospital Geral II,2,0
+2246988,Cirurgia Geral,SIH,CIRURGIA,17 - Planalto,2022,428,360,Hospital Geral III,2,0
+2246988,Cirurgia Geral,SIH,CIRURGIA,17 - Planalto,2023,475,360,Hospital Geral III,2,0
+2246988,Cirurgia Geral,SIH,CIRURGIA,17 - Planalto,2024,266,360,Hospital Geral III,2,0
+2236370,Cirurgia Geral,SIH,CIRURGIA,28 - Vale do Rio Pardo,2024,73,360,Hospital Geral II,2,0
+2244101,Cirurgia Geral,SIH,CIRURGIA,01 - Verdes Campos,2022,7,360,Hospital Geral II,2,0
+2244101,Cirurgia Geral,SIH,CIRURGIA,01 - Verdes Campos,2023,94,360,Hospital Geral II,2,0
+2244101,Cirurgia Geral,SIH,CIRURGIA,01 - Verdes Campos,2024,157,360,Hospital Geral II,2,0
+2259893,Traumato/Ortopedia,SIH,CIRURGIA,11 - Sete Povos das Missões,2023,441,408,Hospital Geral III,2,0
+2259893,Traumato/Ortopedia,SIH,CIRURGIA,11 - Sete Povos das Missões,2024,183,408,Hospital Geral III,2,0
+2259907,Cirurgia Geral,SIH,CIRURGIA,11 - Sete Povos das Missões,2022,144,360,Hospital Geral III,2,0
+2262568,Cirurgia Geral,SIH,CIRURGIA,10 - Capital e Vale do Gravataí,2024,153,360,Hospital Geral III,2,0
+2262568,Traumato/Ortopedia,SIH,CIRURGIA,10 - Capital e Vale do Gravataí,2022,308,308,Hospital Geral III,2,0
+2252228,Traumato/Ortopedia,SIH,CIRURGIA,29 - Vales e Montanhas,2022,269,269,Hospital Geral I,2,0
+2252228,Traumato/Ortopedia,SIH,CIRURGIA,29 - Vales e Montanhas,2023,421,269,Hospital Geral I,2,0
+2252228,Traumato/Ortopedia,SIH,CIRURGIA,29 - Vales e Montanhas,2024,339,269,Hospital Geral I,2,0
+2257548,Cirurgia Geral,SIH,CIRURGIA,09 - Carbonífera/Costa Doce,2022,222,360,Hospital Geral III,2,0
+2257548,Cirurgia Geral,SIH,CIRURGIA,09 - Carbonífera/Costa Doce,2023,412,360,Hospital Geral III,2,0
+2259907,Cirurgia Geral,SIH,CIRURGIA,11 - Sete Povos das Missões,2023,419,360,Hospital Geral III,2,0
+2259907,Cirurgia Geral,SIH,CIRURGIA,11 - Sete Povos das Missões,2024,226,360,Hospital Geral III,2,0
+2262568,Traumato/Ortopedia,SIH,CIRURGIA,10 - Capital e Vale do Gravataí,2023,206,308,Hospital Geral III,2,0
+2262568,Traumato/Ortopedia,SIH,CIRURGIA,10 - Capital e Vale do Gravataí,2024,99,308,Hospital Geral III,2,0
+2252244,Cirurgia Geral,SIH,CIRURGIA,30 - Vale da Luz,2022,365,360,Hospital Geral II,2,0
+2252244,Cirurgia Geral,SIH,CIRURGIA,30 - Vale da Luz,2023,363,360,Hospital Geral II,2,0
+2252244,Cirurgia Geral,SIH,CIRURGIA,30 - Vale da Luz,2024,181,360,Hospital Geral II,2,0
+2257548,Cirurgia Geral,SIH,CIRURGIA,09 - Carbonífera/Costa Doce,2024,183,360,Hospital Geral III,2,0
+2259907,Traumato/Ortopedia,SIH,CIRURGIA,11 - Sete Povos das Missões,2022,225,225,Hospital Geral III,2,0
+2262568,Urologia,SIH,CIRURGIA,10 - Capital e Vale do Gravataí,2022,232,232,Hospital Geral III,2,0
+2262568,Urologia,SIH,CIRURGIA,10 - Capital e Vale do Gravataí,2023,329,232,Hospital Geral III,2,0
+2262568,Urologia,SIH,CIRURGIA,10 - Capital e Vale do Gravataí,2024,222,232,Hospital Geral III,2,0
+2259907,Traumato/Ortopedia,SIH,CIRURGIA,11 - Sete Povos das Missões,2023,232,225,Hospital Geral III,2,0
+2259907,Traumato/Ortopedia,SIH,CIRURGIA,11 - Sete Povos das Missões,2024,380,225,Hospital Geral III,2,0
+2260050,Urologia,SIH,CIRURGIA,17 - Planalto,2022,81,81,Hospital Geral I,2,0
+2260050,Urologia,SIH,CIRURGIA,17 - Planalto,2023,131,81,Hospital Geral I,2,0
+2252244,Traumato/Ortopedia,SIH,CIRURGIA,30 - Vale da Luz,2022,701,701,Hospital Geral II,1,1
+2252244,Traumato/Ortopedia,SIH,CIRURGIA,30 - Vale da Luz,2023,659,701,Hospital Geral II,1,1
+2252244,Traumato/Ortopedia,SIH,CIRURGIA,30 - Vale da Luz,2024,473,701,Hospital Geral II,1,1
+2257548,Traumato/Ortopedia,SIH,CIRURGIA,09 - Carbonífera/Costa Doce,2022,366,366,Hospital Geral III,2,0
+2257548,Traumato/Ortopedia,SIH,CIRURGIA,09 - Carbonífera/Costa Doce,2023,365,366,Hospital Geral III,2,0
+2260050,Urologia,SIH,CIRURGIA,17 - Planalto,2024,67,81,Hospital Geral I,2,0
+2263858,Traumato/Ortopedia,SIH,CIRURGIA,12 - Portal das Missões,2022,185,185,Hospital Geral III,2,0
+2263858,Traumato/Ortopedia,SIH,CIRURGIA,12 - Portal das Missões,2023,236,185,Hospital Geral III,2,0
+2263858,Traumato/Ortopedia,SIH,CIRURGIA,12 - Portal das Missões,2024,365,185,Hospital Geral III,2,0
+2252260,Cirurgia Geral,SIH,CIRURGIA,30 - Vale da Luz,2022,321,360,Hospital Geral II,2,0
+2252260,Cirurgia Geral,SIH,CIRURGIA,30 - Vale da Luz,2023,276,360,Hospital Geral II,2,0
+2252260,Cirurgia Geral,SIH,CIRURGIA,30 - Vale da Luz,2024,224,360,Hospital Geral II,2,0
+2257548,Traumato/Ortopedia,SIH,CIRURGIA,09 - Carbonífera/Costa Doce,2024,233,366,Hospital Geral III,2,0
+2257556,Cirurgia Geral,SIH,CIRURGIA,08 - Vale do Caí e Metropolitana,2022,202,360,Hospital Geral III,2,0
+2257556,Cirurgia Geral,SIH,CIRURGIA,08 - Vale do Caí e Metropolitana,2023,279,360,Hospital Geral III,2,0
+2261030,Cirurgia Geral,SIH,CIRURGIA,13 - Diversidade,2022,37,360,Hospital Geral II,2,0
+2261030,Cirurgia Geral,SIH,CIRURGIA,13 - Diversidade,2023,143,360,Hospital Geral II,2,0
+2261030,Cirurgia Geral,SIH,CIRURGIA,13 - Diversidade,2024,205,360,Hospital Geral II,2,0
+2266474,Cirurgia Geral,SIH,CIRURGIA,27 - Jacuí Centro,2022,414,360,Hospital Geral III,2,0
+2266474,Cirurgia Geral,SIH,CIRURGIA,27 - Jacuí Centro,2023,537,360,Hospital Geral III,2,0
+2266474,Cirurgia Geral,SIH,CIRURGIA,27 - Jacuí Centro,2024,348,360,Hospital Geral III,2,0
+2252260,Traumato/Ortopedia,SIH,CIRURGIA,30 - Vale da Luz,2022,355,355,Hospital Geral II,2,0
+2252260,Traumato/Ortopedia,SIH,CIRURGIA,30 - Vale da Luz,2023,663,355,Hospital Geral II,2,0
+2252260,Traumato/Ortopedia,SIH,CIRURGIA,30 - Vale da Luz,2024,529,355,Hospital Geral II,2,0
+2257556,Cirurgia Geral,SIH,CIRURGIA,08 - Vale do Caí e Metropolitana,2024,133,360,Hospital Geral III,2,0
+2257556,Traumato/Ortopedia,SIH,CIRURGIA,08 - Vale do Caí e Metropolitana,2022,309,309,Hospital Geral III,2,0
+2261057,Traumato/Ortopedia,SIH,CIRURGIA,13 - Diversidade,2022,720,720,Hospital Geral III,1,1
+2261057,Traumato/Ortopedia,SIH,CIRURGIA,13 - Diversidade,2023,563,720,Hospital Geral III,1,1
+2261057,Traumato/Ortopedia,SIH,CIRURGIA,13 - Diversidade,2024,430,720,Hospital Geral III,1,1
+2261057,Urologia,SIH,CIRURGIA,13 - Diversidade,2022,171,171,Hospital Geral III,2,0
+2253046,Cirurgia Geral,SIH,CIRURGIA,21 - Sul,2022,273,360,Hospital Geral III,2,0
+2257556,Traumato/Ortopedia,SIH,CIRURGIA,08 - Vale do Caí e Metropolitana,2023,164,309,Hospital Geral III,2,0
+2257556,Traumato/Ortopedia,SIH,CIRURGIA,08 - Vale do Caí e Metropolitana,2024,252,309,Hospital Geral III,2,0
+2261057,Urologia,SIH,CIRURGIA,13 - Diversidade,2023,174,171,Hospital Geral III,2,0
+2261057,Urologia,SIH,CIRURGIA,13 - Diversidade,2024,73,171,Hospital Geral III,2,0
+2261065,Cirurgia Geral,SIH,CIRURGIA,13 - Diversidade,2022,174,360,Hospital Geral II,2,0
+2266474,Traumato/Ortopedia,SIH,CIRURGIA,27 - Jacuí Centro,2022,846,846,Hospital Geral III,1,1
+2266474,Traumato/Ortopedia,SIH,CIRURGIA,27 - Jacuí Centro,2023,950,846,Hospital Geral III,1,1
+2266474,Traumato/Ortopedia,SIH,CIRURGIA,27 - Jacuí Centro,2024,720,846,Hospital Geral III,1,1
+2253046,Cirurgia Geral,SIH,CIRURGIA,21 - Sul,2023,359,360,Hospital Geral III,2,0
+2253046,Cirurgia Geral,SIH,CIRURGIA,21 - Sul,2024,198,360,Hospital Geral III,2,0
+2253054,Traumato/Ortopedia,SIH,CIRURGIA,21 - Sul,2022,1356,1356,Hospital Geral III,1,1
+2257564,Cirurgia Geral,SIH,CIRURGIA,06 - Vale do Paranhana e Costa Serra,2022,371,360,Hospital Geral I,2,0
+2257564,Cirurgia Geral,SIH,CIRURGIA,06 - Vale do Paranhana e Costa Serra,2023,607,360,Hospital Geral I,2,0
+2257564,Cirurgia Geral,SIH,CIRURGIA,06 - Vale do Paranhana e Costa Serra,2024,119,360,Hospital Geral I,2,0
+2257564,Traumato/Ortopedia,SIH,CIRURGIA,06 - Vale do Paranhana e Costa Serra,2022,38,38,Hospital Geral I,2,0
+2257564,Traumato/Ortopedia,SIH,CIRURGIA,06 - Vale do Paranhana e Costa Serra,2023,404,38,Hospital Geral I,2,0
+2257564,Traumato/Ortopedia,SIH,CIRURGIA,06 - Vale do Paranhana e Costa Serra,2024,151,38,Hospital Geral I,2,0
+2261065,Cirurgia Geral,SIH,CIRURGIA,13 - Diversidade,2023,317,360,Hospital Geral II,2,0
+2261065,Cirurgia Geral,SIH,CIRURGIA,13 - Diversidade,2024,190,360,Hospital Geral II,2,0
+2693801,Cirurgia Geral,SIH,CIRURGIA,10 - Capital e Vale do Gravataí,2022,300,360,Hospital Geral III,2,0
+2693801,Cirurgia Geral,SIH,CIRURGIA,10 - Capital e Vale do Gravataí,2023,565,360,Hospital Geral III,2,0
+2693801,Cirurgia Geral,SIH,CIRURGIA,10 - Capital e Vale do Gravataí,2024,516,360,Hospital Geral III,2,0
+2253054,Traumato/Ortopedia,SIH,CIRURGIA,21 - Sul,2023,1207,1356,Hospital Geral III,1,1
+2253054,Traumato/Ortopedia,SIH,CIRURGIA,21 - Sul,2024,875,1356,Hospital Geral III,1,1
+2254611,Cirurgia Geral,SIH,CIRURGIA,14 - Fronteira Noroeste,2022,566,360,Hospital Geral III,2,0
+2261987,Cirurgia Geral,SIH,CIRURGIA,22 - Pampa,2022,44,360,Hospital Geral III,2,0
+2261987,Cirurgia Geral,SIH,CIRURGIA,22 - Pampa,2023,149,360,Hospital Geral III,2,0
+2707918,Cirurgia Geral,SIH,CIRURGIA,16 - Alto Uruguai Gaúcho,2022,856,360,Hospital Geral III,2,0
+2707918,Cirurgia Geral,SIH,CIRURGIA,16 - Alto Uruguai Gaúcho,2023,644,360,Hospital Geral III,2,0
+2707918,Cirurgia Geral,SIH,CIRURGIA,16 - Alto Uruguai Gaúcho,2024,343,360,Hospital Geral III,2,0
+2254611,Cirurgia Geral,SIH,CIRURGIA,14 - Fronteira Noroeste,2023,470,360,Hospital Geral III,2,0
+2254611,Cirurgia Geral,SIH,CIRURGIA,14 - Fronteira Noroeste,2024,327,360,Hospital Geral III,2,0
+2257645,Urologia,SIH,CIRURGIA,25 - Vinhedos e Basalto,2022,137,137,Hospital Geral II,2,0
+2257645,Urologia,SIH,CIRURGIA,25 - Vinhedos e Basalto,2023,238,137,Hospital Geral II,2,0
+2257645,Urologia,SIH,CIRURGIA,25 - Vinhedos e Basalto,2024,151,137,Hospital Geral II,2,0
+2261987,Cirurgia Geral,SIH,CIRURGIA,22 - Pampa,2024,313,360,Hospital Geral III,2,0
+2257815,Cirurgia Geral,SIH,CIRURGIA,05 - Bons Ventos,2022,77,360,Hospital Geral II,2,0
+2257815,Cirurgia Geral,SIH,CIRURGIA,05 - Bons Ventos,2023,558,360,Hospital Geral II,2,0
+2257815,Cirurgia Geral,SIH,CIRURGIA,05 - Bons Ventos,2024,353,360,Hospital Geral II,2,0
+2261987,Traumato/Ortopedia,SIH,CIRURGIA,22 - Pampa,2022,260,260,Hospital Geral III,2,0
+2261987,Traumato/Ortopedia,SIH,CIRURGIA,22 - Pampa,2023,499,260,Hospital Geral III,2,0
+2261987,Traumato/Ortopedia,SIH,CIRURGIA,22 - Pampa,2024,338,260,Hospital Geral III,2,0
+2254611,Traumato/Ortopedia,SIH,CIRURGIA,14 - Fronteira Noroeste,2022,1207,1207,Hospital Geral III,1,1
+2254611,Traumato/Ortopedia,SIH,CIRURGIA,14 - Fronteira Noroeste,2023,1337,1207,Hospital Geral III,1,1
+2254611,Traumato/Ortopedia,SIH,CIRURGIA,14 - Fronteira Noroeste,2024,985,1207,Hospital Geral III,1,1
+2257815,Traumato/Ortopedia,SIH,CIRURGIA,05 - Bons Ventos,2022,172,172,Hospital Geral II,2,0
+2257815,Traumato/Ortopedia,SIH,CIRURGIA,05 - Bons Ventos,2023,270,172,Hospital Geral II,2,0
+2262274,Cirurgia Geral,SIH,CIRURGIA,17 - Planalto,2022,74,360,Hospital Geral II,2,0
+2262274,Cirurgia Geral,SIH,CIRURGIA,17 - Planalto,2023,162,360,Hospital Geral II,2,0
+2262274,Cirurgia Geral,SIH,CIRURGIA,17 - Planalto,2024,99,360,Hospital Geral II,2,0
+2254611,Urologia,SIH,CIRURGIA,14 - Fronteira Noroeste,2022,291,291,Hospital Geral III,2,0
+2254611,Urologia,SIH,CIRURGIA,14 - Fronteira Noroeste,2023,468,291,Hospital Geral III,2,0
+2254611,Urologia,SIH,CIRURGIA,14 - Fronteira Noroeste,2024,250,291,Hospital Geral III,2,0
+2257815,Traumato/Ortopedia,SIH,CIRURGIA,05 - Bons Ventos,2024,206,172,Hospital Geral II,2,0
+2257815,Urologia,SIH,CIRURGIA,05 - Bons Ventos,2022,20,20,Hospital Geral II,2,0
+2257815,Urologia,SIH,CIRURGIA,05 - Bons Ventos,2023,308,20,Hospital Geral II,2,0
+2257815,Urologia,SIH,CIRURGIA,05 - Bons Ventos,2024,184,20,Hospital Geral II,2,0
+2262274,Traumato/Ortopedia,SIH,CIRURGIA,17 - Planalto,2022,161,161,Hospital Geral II,2,0
+2262274,Traumato/Ortopedia,SIH,CIRURGIA,17 - Planalto,2023,139,161,Hospital Geral II,2,0
+2262274,Traumato/Ortopedia,SIH,CIRURGIA,17 - Planalto,2024,71,161,Hospital Geral II,2,0
+2254964,Cirurgia Geral,SIH,CIRURGIA,28 - Vale do Rio Pardo,2022,194,360,Hospital Geral III,2,0
+2254964,Cirurgia Geral,SIH,CIRURGIA,28 - Vale do Rio Pardo,2023,140,360,Hospital Geral III,2,0
+2254964,Cirurgia Geral,SIH,CIRURGIA,28 - Vale do Rio Pardo,2024,71,360,Hospital Geral III,2,0
+2259893,Cirurgia Geral,SIH,CIRURGIA,11 - Sete Povos das Missões,2022,198,360,Hospital Geral III,2,0
+2259893,Cirurgia Geral,SIH,CIRURGIA,11 - Sete Povos das Missões,2023,213,360,Hospital Geral III,2,0
+2259893,Cirurgia Geral,SIH,CIRURGIA,11 - Sete Povos das Missões,2024,187,360,Hospital Geral III,2,0
+2254964,Traumato/Ortopedia,SIH,CIRURGIA,28 - Vale do Rio Pardo,2022,1069,1069,Hospital Geral III,1,1
+2254964,Traumato/Ortopedia,SIH,CIRURGIA,28 - Vale do Rio Pardo,2023,1157,1069,Hospital Geral III,1,1
+2259893,Traumato/Ortopedia,SIH,CIRURGIA,11 - Sete Povos das Missões,2022,408,408,Hospital Geral III,2,0
+2262568,Cirurgia Geral,SIH,CIRURGIA,10 - Capital e Vale do Gravataí,2022,361,360,Hospital Geral III,2,0
+2262568,Cirurgia Geral,SIH,CIRURGIA,10 - Capital e Vale do Gravataí,2023,340,360,Hospital Geral III,2,0
+2252198,Urologia,SIH,CIRURGIA,29 - Vales e Montanhas,2022,302,302,Hospital Geral II,2,0
+2252198,Urologia,SIH,CIRURGIA,29 - Vales e Montanhas,2023,380,302,Hospital Geral II,2,0
+2252198,Urologia,SIH,CIRURGIA,29 - Vales e Montanhas,2024,204,302,Hospital Geral II,2,0
+2254964,Traumato/Ortopedia,SIH,CIRURGIA,28 - Vale do Rio Pardo,2024,749,1069,Hospital Geral III,1,1
+5384117,Traumato/Ortopedia,SIH,CIRURGIA,15 - Caminho das Águas,2023,1186,1136,Hospital Geral III,1,1
+5384117,Traumato/Ortopedia,SIH,CIRURGIA,15 - Caminho das Águas,2024,895,1136,Hospital Geral III,1,1
+5384117,Urologia,SIH,CIRURGIA,15 - Caminho das Águas,2022,217,217,Hospital Geral III,2,0
+5384117,Urologia,SIH,CIRURGIA,15 - Caminho das Águas,2023,205,217,Hospital Geral III,2,0
+7513151,Cirurgia Geral,SIH,CIRURGIA,10 - Capital e Vale do Gravataí,2022,1544,360,Hospital Geral III,2,0
+7513151,Cirurgia Geral,SIH,CIRURGIA,10 - Capital e Vale do Gravataí,2023,1313,360,Hospital Geral III,2,0
+7513151,Cirurgia Geral,SIH,CIRURGIA,10 - Capital e Vale do Gravataí,2024,862,360,Hospital Geral III,2,0
+7513151,Traumato/Ortopedia,SIH,CIRURGIA,10 - Capital e Vale do Gravataí,2022,25,25,Hospital Geral III,2,0
+2707950,Cirurgia Geral,SIH,CIRURGIA,04 - Belas Praias,2022,190,360,Hospital Geral II,2,0
+2707950,Cirurgia Geral,SIH,CIRURGIA,04 - Belas Praias,2023,361,360,Hospital Geral II,2,0
+2707950,Cirurgia Geral,SIH,CIRURGIA,04 - Belas Praias,2024,219,360,Hospital Geral II,2,0
+5384117,Urologia,SIH,CIRURGIA,15 - Caminho das Águas,2024,153,217,Hospital Geral III,2,0
+7513151,Traumato/Ortopedia,SIH,CIRURGIA,10 - Capital e Vale do Gravataí,2023,32,25,Hospital Geral III,2,0
+7513151,Traumato/Ortopedia,SIH,CIRURGIA,10 - Capital e Vale do Gravataí,2024,101,25,Hospital Geral III,2,0
+7513151,Urologia,SIH,CIRURGIA,10 - Capital e Vale do Gravataí,2022,361,361,Hospital Geral III,2,0
+2707950,Traumato/Ortopedia,SIH,CIRURGIA,04 - Belas Praias,2022,281,281,Hospital Geral II,2,0
+2707950,Traumato/Ortopedia,SIH,CIRURGIA,04 - Belas Praias,2023,365,281,Hospital Geral II,2,0
+2707950,Traumato/Ortopedia,SIH,CIRURGIA,04 - Belas Praias,2024,223,281,Hospital Geral II,2,0
+3508528,Traumato/Ortopedia,SIH,CIRURGIA,08 - Vale do Caí e Metropolitana,2022,764,764,Hospital Geral III,1,1
+3508528,Traumato/Ortopedia,SIH,CIRURGIA,08 - Vale do Caí e Metropolitana,2023,299,764,Hospital Geral III,1,1
+7513151,Urologia,SIH,CIRURGIA,10 - Capital e Vale do Gravataí,2023,443,361,Hospital Geral III,2,0
+7513151,Urologia,SIH,CIRURGIA,10 - Capital e Vale do Gravataí,2024,245,361,Hospital Geral III,2,0
+2707950,Urologia,SIH,CIRURGIA,04 - Belas Praias,2022,328,328,Hospital Geral II,2,0
+2707950,Urologia,SIH,CIRURGIA,04 - Belas Praias,2023,439,328,Hospital Geral II,2,0
+2707950,Urologia,SIH,CIRURGIA,04 - Belas Praias,2024,181,328,Hospital Geral II,2,0
+3508528,Traumato/Ortopedia,SIH,CIRURGIA,08 - Vale do Caí e Metropolitana,2024,320,764,Hospital Geral III,1,1
+3626245,Traumato/Ortopedia,SIH,CIRURGIA,08 - Vale do Caí e Metropolitana,2022,1931,1931,Hospital Geral III,0,1
+3626245,Traumato/Ortopedia,SIH,CIRURGIA,08 - Vale do Caí e Metropolitana,2023,2019,1931,Hospital Geral III,0,1
+2707969,Cirurgia Geral,SIH,CIRURGIA,04 - Belas Praias,2022,715,360,Hospital Geral II,2,0
+2707969,Cirurgia Geral,SIH,CIRURGIA,04 - Belas Praias,2023,473,360,Hospital Geral II,2,0
+2707969,Cirurgia Geral,SIH,CIRURGIA,04 - Belas Praias,2024,138,360,Hospital Geral II,2,0
+3626245,Traumato/Ortopedia,SIH,CIRURGIA,08 - Vale do Caí e Metropolitana,2024,722,1931,Hospital Geral III,0,1
+5223962,Cirurgia Geral,SIH,CIRURGIA,10 - Capital e Vale do Gravataí,2022,54,360,Hospital Geral III,2,0
+5223962,Cirurgia Geral,SIH,CIRURGIA,10 - Capital e Vale do Gravataí,2023,17,360,Hospital Geral III,2,0
+5223962,Cirurgia Geral,SIH,CIRURGIA,10 - Capital e Vale do Gravataí,2024,20,360,Hospital Geral III,2,0
+5223962,Traumato/Ortopedia,SIH,CIRURGIA,10 - Capital e Vale do Gravataí,2022,543,543,Hospital Geral III,2,0
+5223962,Traumato/Ortopedia,SIH,CIRURGIA,10 - Capital e Vale do Gravataí,2023,147,543,Hospital Geral III,2,0
+5223962,Traumato/Ortopedia,SIH,CIRURGIA,10 - Capital e Vale do Gravataí,2024,7,543,Hospital Geral III,2,0
+5922216,Traumato/Ortopedia,SIH,CIRURGIA,01 - Verdes Campos,2022,551,551,Hospital Geral III,2,0
+2707969,Traumato/Ortopedia,SIH,CIRURGIA,04 - Belas Praias,2022,1160,1160,Hospital Geral II,1,1
+2707969,Traumato/Ortopedia,SIH,CIRURGIA,04 - Belas Praias,2023,953,1160,Hospital Geral II,1,1
+2707969,Traumato/Ortopedia,SIH,CIRURGIA,04 - Belas Praias,2024,475,1160,Hospital Geral II,1,1
+5384117,Cirurgia Geral,SIH,CIRURGIA,15 - Caminho das Águas,2022,883,360,Hospital Geral III,2,0
+5384117,Cirurgia Geral,SIH,CIRURGIA,15 - Caminho das Águas,2023,776,360,Hospital Geral III,2,0
+5922216,Traumato/Ortopedia,SIH,CIRURGIA,01 - Verdes Campos,2023,452,551,Hospital Geral III,2,0
+5922216,Traumato/Ortopedia,SIH,CIRURGIA,01 - Verdes Campos,2024,398,551,Hospital Geral III,2,0
+5922216,Urologia,SIH,CIRURGIA,01 - Verdes Campos,2022,295,295,Hospital Geral III,2,0
+2708000,Traumato/Ortopedia,SIH,CIRURGIA,13 - Diversidade,2022,276,276,Hospital Geral I,2,0
+2708000,Traumato/Ortopedia,SIH,CIRURGIA,13 - Diversidade,2023,338,276,Hospital Geral I,2,0
+2708000,Traumato/Ortopedia,SIH,CIRURGIA,13 - Diversidade,2024,214,276,Hospital Geral I,2,0
+5384117,Cirurgia Geral,SIH,CIRURGIA,15 - Caminho das Águas,2024,398,360,Hospital Geral III,2,0
+5922216,Urologia,SIH,CIRURGIA,01 - Verdes Campos,2023,95,295,Hospital Geral III,2,0
+5922216,Urologia,SIH,CIRURGIA,01 - Verdes Campos,2024,113,295,Hospital Geral III,2,0
+6424236,Cirurgia Geral,SIH,CIRURGIA,09 - Carbonífera/Costa Doce,2022,223,360,Hospital Geral III,2,0
+6424236,Cirurgia Geral,SIH,CIRURGIA,09 - Carbonífera/Costa Doce,2023,311,360,Hospital Geral III,2,0
+6424236,Cirurgia Geral,SIH,CIRURGIA,09 - Carbonífera/Costa Doce,2024,129,360,Hospital Geral III,2,0
+2778718,Traumato/Ortopedia,SIH,CIRURGIA,10 - Capital e Vale do Gravataí,2022,526,526,Hospital Geral III,2,0
+2778718,Traumato/Ortopedia,SIH,CIRURGIA,10 - Capital e Vale do Gravataí,2023,682,526,Hospital Geral III,2,0
+2778718,Traumato/Ortopedia,SIH,CIRURGIA,10 - Capital e Vale do Gravataí,2024,440,526,Hospital Geral III,2,0
+2792974,Cirurgia Geral,SIH,CIRURGIA,28 - Vale do Rio Pardo,2022,60,360,Hospital Geral III,2,0
+2792974,Cirurgia Geral,SIH,CIRURGIA,28 - Vale do Rio Pardo,2023,89,360,Hospital Geral III,2,0
+2792974,Cirurgia Geral,SIH,CIRURGIA,28 - Vale do Rio Pardo,2024,160,360,Hospital Geral III,2,0
+6424236,Traumato/Ortopedia,SIH,CIRURGIA,09 - Carbonífera/Costa Doce,2022,517,517,Hospital Geral III,2,0
+6424236,Traumato/Ortopedia,SIH,CIRURGIA,09 - Carbonífera/Costa Doce,2023,525,517,Hospital Geral III,2,0
+6424236,Traumato/Ortopedia,SIH,CIRURGIA,09 - Carbonífera/Costa Doce,2024,350,517,Hospital Geral III,2,0
+2792974,Traumato/Ortopedia,SIH,CIRURGIA,28 - Vale do Rio Pardo,2022,523,523,Hospital Geral III,2,0
+2792974,Traumato/Ortopedia,SIH,CIRURGIA,28 - Vale do Rio Pardo,2023,671,523,Hospital Geral III,2,0
+2792974,Traumato/Ortopedia,SIH,CIRURGIA,28 - Vale do Rio Pardo,2024,437,523,Hospital Geral III,2,0
+2793008,Cirurgia Geral,SIH,CIRURGIA,05 - Bons Ventos,2022,70,360,Hospital Geral III,2,0
+6424236,Urologia,SIH,CIRURGIA,09 - Carbonífera/Costa Doce,2022,188,188,Hospital Geral III,2,0
+6424236,Urologia,SIH,CIRURGIA,09 - Carbonífera/Costa Doce,2023,257,188,Hospital Geral III,2,0
+2793008,Cirurgia Geral,SIH,CIRURGIA,05 - Bons Ventos,2023,78,360,Hospital Geral III,2,0
+2793008,Cirurgia Geral,SIH,CIRURGIA,05 - Bons Ventos,2024,69,360,Hospital Geral III,2,0
+6424236,Urologia,SIH,CIRURGIA,09 - Carbonífera/Costa Doce,2024,187,188,Hospital Geral III,2,0
+6844138,Cirurgia Geral,SIH,CIRURGIA,07 - Vale dos Sinos,2022,284,360,Hospital Geral II,2,0
+6844138,Cirurgia Geral,SIH,CIRURGIA,07 - Vale dos Sinos,2023,322,360,Hospital Geral II,2,0
+2707918,Traumato/Ortopedia,SIH,CIRURGIA,16 - Alto Uruguai Gaúcho,2022,1860,1860,Hospital Geral III,1,1
+2707918,Traumato/Ortopedia,SIH,CIRURGIA,16 - Alto Uruguai Gaúcho,2023,1455,1860,Hospital Geral III,1,1
+2707918,Traumato/Ortopedia,SIH,CIRURGIA,16 - Alto Uruguai Gaúcho,2024,679,1860,Hospital Geral III,1,1
+2793008,Traumato/Ortopedia,SIH,CIRURGIA,05 - Bons Ventos,2022,772,772,Hospital Geral III,1,1
+2793008,Traumato/Ortopedia,SIH,CIRURGIA,05 - Bons Ventos,2023,944,772,Hospital Geral III,1,1
+2793008,Traumato/Ortopedia,SIH,CIRURGIA,05 - Bons Ventos,2024,439,772,Hospital Geral III,1,1
+6844138,Cirurgia Geral,SIH,CIRURGIA,07 - Vale dos Sinos,2024,205,360,Hospital Geral II,2,0
+7092571,Traumato/Ortopedia,SIH,CIRURGIA,10 - Capital e Vale do Gravataí,2022,3366,3366,Hospital Geral III,0,1
+3508528,Cirurgia Geral,SIH,CIRURGIA,08 - Vale do Caí e Metropolitana,2022,619,360,Hospital Geral III,2,0
+5384117,Traumato/Ortopedia,SIH,CIRURGIA,15 - Caminho das Águas,2022,1136,1136,Hospital Geral III,1,1
+7092571,Traumato/Ortopedia,SIH,CIRURGIA,10 - Capital e Vale do Gravataí,2023,3537,3366,Hospital Geral III,0,1
+7092571,Traumato/Ortopedia,SIH,CIRURGIA,10 - Capital e Vale do Gravataí,2024,2389,3366,Hospital Geral III,0,1
+2707918,Urologia,SIH,CIRURGIA,16 - Alto Uruguai Gaúcho,2022,380,380,Hospital Geral III,2,0
+2707918,Urologia,SIH,CIRURGIA,16 - Alto Uruguai Gaúcho,2023,482,380,Hospital Geral III,2,0
+2707918,Urologia,SIH,CIRURGIA,16 - Alto Uruguai Gaúcho,2024,324,380,Hospital Geral III,2,0
+3508528,Cirurgia Geral,SIH,CIRURGIA,08 - Vale do Caí e Metropolitana,2023,358,360,Hospital Geral III,2,0
+3508528,Cirurgia Geral,SIH,CIRURGIA,08 - Vale do Caí e Metropolitana,2024,478,360,Hospital Geral III,2,0
