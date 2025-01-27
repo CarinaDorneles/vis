@@ -10,8 +10,16 @@ def main():
     dados= df_espec.copy()
     df_espec.drop(['CD_CNES','TIPO',],axis=1, inplace=True)
     novo_nome = {'DS_ESPECIALIDADE':'Especialidade','DS_DADO':'Tipo Atendimento','ANO':'Ano',
-        'Grupos-K': 'Grupos', 'NM_REGIAO_SAUDE': 'Região de Saúde', 
+        'cluster': 'Grupos', 'NM_REGIAO_SAUDE': 'Região de Saúde', 
         'Outlier_Combinado':'Anomalias (CB)','outliers_iso':'Anomalias','PORTE_HOSP':'Tipo do Hospital',}
+    df_espec['cluster']=df_espec['cluster']
+
+    mapk = {
+        0: 'Grupo 1',
+        1: 'Grupo 2',
+        2: 'Grupo 3'
+        }
+    df_espec['cluster']=df_espec['cluster'].replace(mapk)
     df_espec = df_espec.rename(columns=novo_nome)
 
     df =df_espec.copy()
